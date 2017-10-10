@@ -72,18 +72,14 @@ hr {
 	margin-bottom: 20px;
 }
 a {
-	text-decoration: none;
-	color: $color_suva_gray_approx;
+	color: #888;
+	&:hover{
+		color: #888;
+		text-decoration: none;
+	}
 }
 .container {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 85%;
 	position: relative;
-	top: 0;
-	left: 0;
-	right: 0;
 }
 .grid {
 	display: flex;
@@ -112,196 +108,99 @@ a {
 .main {
 	height: 100%;
 }
-.navbar {
-	min-height: 80px;
-	width: 100%;
-	line-height: 80px;
-	position: fixed;
-	top: 0;
-	background: $color_white;
-	z-index: 100;
-	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
-	transition: all 0.5s ease-in-out;
-}
-.nav-links {
-	float: right;
-	padding-right: 12px;
-}
 .add-shadow {
 	//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
 	box-shadow: 0 3px 2px $color_black_8;
 }
-.navbar-collapse {
-	visibility: hidden;
-	top: -80px;
-}
-.dropdown {
-	position: relative;
-	display: inline-block;
-	&:hover {
-		.navbar-collapse {
-			top: 0;
-		}
-		.dropdown-content {
-			visibility: visible;
-			height: 250px;
-		}
-		.nav-item {
-			color: $color_flamingo_approx;
+.navbar{
+	background: white;
+	.nav-item{
+		color: #4a4a4a;
+		margin-left: 30px;
+		font-size: 18px;
+		transition: all .15s ease-in-out;
+		font-weight: 300;
+		padding: 30px 5px;
+		&:hover{
+			background: none;
+			color: $orange;
 		}
 	}
-}
-.nav-item {
-	text-decoration: none;
-	color: $color_gravel_approx;
-	display: inline-block;
-	margin-left: 30px;
-	margin-right: 0;
-	font-size: 18px;
-	text-align: center;
-	font-weight: 400;
-	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
-	transition: all 0.15s ease-in-out;
-	position: relative;
-	font-weight: 300;
-	&:hover {
-		color: $color_flamingo_approx;
+	.navbar-brand{
+		padding: 15px 0;
+		img{
+			height: 40px;
+		}
+		
+	}
+	&.navbar-closed{
+		visibility: hidden;
+		top: -80px;
 	}
 }
-@media only screen and(max-width: $breakpoint-xl) {
-	.nav-item {
-		margin-left: 12px;
-		margin-right: 12px;
-	}
-	.branding-card {
-		width: calc(50% - 2px);
-	}
-	.card {
-		width: calc(50% - 24px);
-	}
-}
-@media only screen and(max-width: $breakpoint-md) {
-	.nav-links {
-		display: inline-block;
-		float: none;
-		width: 100%;
-		min-width: 300px;
-		padding-left: 20px;
-		padding-right: 20px;
-		text-align: center;
-		//Instead of the line below you could use @include box-sizing($bs)
-		box-sizing: border-box;
-	}
-	.card {
-		width: calc(100% - 24px);
-	}
-}
-.dropdown-content {
-	visibility: hidden;
-	height: 0;
-	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
-	transition: all .5s cubic-bezier(.25, .8, .25, 1);
-	left: -35px;
-	position: absolute;
-	background-color: $color_white;
-	min-width: 250px;
-	text-align: center;
-	//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
-	box-shadow: 0 3px 2px $color_gallery_approx;
-	z-index: 1;
-	overflow: hidden;
-}
-.dropdown-content-2 {
-	left: -40px;
-}
-.dropdown-item {
-	color: $color_gravel_approx;
-	font-size: 20px;
-	font-family: $font_0;
-	font-weight: 300;
-	display: block;
-	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
-	transition: color 0.15s ease-in-out;
-	&:hover {
-		color: $color_flamingo_approx;
-	}
-}
+
 .active {
 	color: $color_flamingo_approx;
 }
-.nav-logo {
-	float: left;
-	margin-top: 15px;
-	margin-left: 12px;
-	height: 40px;
-}
-.jumbotron {
-	margin-top: 80px;
-	min-height: 500px;
-}
-.jumbotron-header {
-	float: left;
-	width: 100%;
+
+.search{
 	margin-top: 150px;
-	font-size: 44px;
-	color: $color_gravel_approx;
-	margin-left: 12px;
-	font-family: $font_0;
-	font-weight: 300;
-}
-.jumbotron-brandname {
-	font-family: $font_0;
-	font-weight: 400;
-	color: $color_flamingo_approx;
-}
-.jumbotron-search {
-	position: relative;
-	float: left;
-	margin-top: 45px;
-	margin-bottom: 45px;
-	width: 50%;
-	margin-right: 50%;
-	height: 72px;
-	margin-left: 12px;
-	z-index: 5;
-	background: $color_white;
-	input {
-		width: 100%;
-		height: 72px;
-		//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
-		box-shadow: 0 2px 4px #EFEFEF;
-		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
-		border-radius: 2px;
-		border: 1px solid #EFEFEF;
-		font-size: 22px;
+	.container{
+		background: url('/static/image/web.svg') no-repeat right center;
+		padding: 66px 0;
+	}
+	.header {
+		font-size: 44px;
+		color: $color_gravel_approx;
 		font-family: $font_0;
 		font-weight: 300;
-		padding-left: 30px;
-		padding-right: 80px;
-		background-color: transparent;
-		//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
-		transition: box-shadow 0.3s ease-in-out;
-		//Instead of the line below you could use @include box-sizing($bs)
-		box-sizing: border-box;
-		&:hover {
-			outline: none;
+	}
+	.brandname {
+		font-family: $font_0;
+		font-weight: 400;
+		color: $color_flamingo_approx;
+	}
+	.search-input {
+		position: relative;
+		margin-top: 45px;
+		margin-bottom: 45px;
+		height: 72px;
+		z-index: 5;
+		background: $color_white;
+		input {
+			width: 100%;
+			height: 72px;
+			//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+			box-shadow: 0 2px 4px #EFEFEF;
 			//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 			border-radius: 2px;
-			//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
-			box-shadow: 0 2px 4px #ccc;
-			~ .result {
+			border: 1px solid #EFEFEF;
+			font-size: 22px;
+			font-family: $font_0;
+			font-weight: 300;
+			padding-left: 30px;
+			padding-right: 80px;
+			background-color: transparent;
+			//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+			transition: box-shadow 0.3s ease-in-out;
+			//Instead of the line below you could use @include box-sizing($bs)
+			box-sizing: border-box;
+			&:hover {
+				outline: none;
+				border-color: #ccc;
+				//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+				border-radius: 2px;
+				//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+				box-shadow: 0 2px 4px #ccc;
+				~ .result {
+					opacity: 1;
+				}
+			}
+			&:focus ~ .result {
 				opacity: 1;
 			}
 		}
-		&:focus ~ .result {
-			opacity: 1;
-		}
 	}
-}
-.jumbotron-img {
-	position: absolute;
-	z-index: -1;
-	right: -100px;
 }
 .result {
 	opacity: 0;
@@ -395,18 +294,16 @@ a {
 	margin-right: 10px;
 }
 .branding-card {
-	float: left;
-	width: calc(33% - 2px);
-	padding: 30px 20px;
 	display: block;
-	position: relative;
-	margin: 35px 1px 60px;
+	margin: 35px 0 60px;
+	padding: 30px 20px;
 	//Instead of the line below you could use @include box-sizing($bs)
 	box-sizing: border-box;
 	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 	transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
 	&:hover {
 		background: rgba(0, 0, 0, 0.02);
+		text-decoration: none;
 	}
 	img {
 		margin: 0 auto 0;
@@ -429,16 +326,7 @@ a {
 .team-pic {
 	width: 100%;
 }
-@media only screen and(max-width: $breakpoint-sm) {
-	.branding-card {
-		width: calc(100% - 2px);
-	}
-}
 .card {
-	float: left;
-	width: calc(33.33% - 24px);
-	margin-left: 12px;
-	margin-right: 12px;
 	display: block;
 	position: relative;
 	margin-bottom: 40px;
@@ -519,10 +407,10 @@ a {
 	font-weight: 300;
 	float: left;
 	width: 100%;
+	margin-top: 100px;
 	padding-bottom: 30px;
-	position: absolute;
-	bottom: 0;
-	padding-top: 100px;
+	padding-top: 20px;
+	border-top: 1px solid #efefef;
 }
 .footer-tag {
 	color: $color_celeste_approx;
@@ -764,10 +652,6 @@ a {
 	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 	transition: font-size 0.15s ease;
 }
-.bottom-placeholder {
-	min-width: 100%;
-	height: 150px;
-}
 .clearfix {
 	display: inline-block;
 	display: block;
@@ -779,12 +663,6 @@ a {
 		clear: both;
 		height: 0;
 	}
-}
-.web {
-	position: absolute;
-	z-index: -1;
-	right: 0;
-	top: 50px;
 }
 input:focus {
 	outline: none;

@@ -116,7 +116,7 @@ var Search = React.createClass({
     render(){
         return (
            <form onSubmit={this.onSearchSubmit}>
-                <input type="text" ref="searchInput" placeholder="eg: office book, skin" onChange={this.doSearch} onKeyDown={this.onPressed}/>
+                <input type="text" ref="searchInput" placeholder="eg. logo, guideline, mascot..." onChange={this.doSearch} onKeyDown={this.onPressed}/>
                 <button 
                     className='search-submit' 
                     ref="searchSubmit" 
