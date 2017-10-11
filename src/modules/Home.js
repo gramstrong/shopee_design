@@ -144,7 +144,7 @@ export default class Home extends React.Component {
 			<div key={key} className="col-md-4">
 				<a className="card" href={link} target="_blank">
 					<div className="crop">
-						<img src={img} />
+						<img src={img} alt={title} />
 					</div>
 					<h3 className="title">{title}</h3>
 					<p className="desc">

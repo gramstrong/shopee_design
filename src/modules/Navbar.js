@@ -76,8 +76,8 @@ export default React.createClass({
             <div className="collapse navbar-collapse" id="navBar">
               <ul className="nav navbar-nav navbar-right">
                 <li><a href="/" className="nav-item">Home</a></li>
-                <li><a href="/product" className="nav-item">Product</a></li>
-                {/* <li className="dropdown">
+                {/* <li><a href="/product" className="nav-item">Product</a></li> */}
+                <li className="dropdown">
                   <a href="#" className="dropdown-toggle nav-item" data-toggle="dropdown">Product
                     <span className="caret"></span>
                   </a>
@@ -86,7 +86,7 @@ export default React.createClass({
                     <li><a href="/product/pcmall-guideline">PC Mall Guideline</a></li>
                     <li><a href="/product/app-guideline">Mobile App Guideline</a></li>
                   </ul>
-                </li> */}
+                </li>
                 <li><a href="/branding" className="nav-item">Branding</a></li>
                 <li><a href="http://careers.shopee.sg/job?department_id=17" className="nav-item" target="_blank">Join Us</a></li>
               </ul>
