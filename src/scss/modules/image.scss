@@ -34,7 +34,7 @@
 	padding: 48px 0 0;
 }
 .download-link__title {
-	color: $color_flush_orange_approx;
+	color: #ff8100;
 	font-size: 18px;
 	&:after {
 		content: '';
@@ -45,6 +45,9 @@
 		background: transparent url(/static/image/icon-download.svg) no-repeat center center;
 		background-size: contain;
 		margin-left: 0.3em;
+	}
+	&:hover{
+		color: #FF6B00;
 	}
 }
 .download-link__description {

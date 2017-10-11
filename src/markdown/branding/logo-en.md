@@ -70,20 +70,8 @@ The brand design guidelines provide specifications for using the Shopee brand lo
 		</a>
 	</div>
 	<div class="col download-wrapper" style="visibility: hidden;">
-		<!-- <div class="download-preview" style="background-image:url('/static/image/branding/official-mall-logo.svg');"></div>
-		<a href="/static/image/branding/official-mall-logo.sketch" download>
-			<div class="download-link">
-				<div class="download-link__title">Download</div>
-			</div>
-		</a> -->
 	</div>
 	<div class="col download-wrapper" style="visibility: hidden;">
-		<!-- <div class="download-preview" style="background-image:url('/static/image/branding/official-mall-logo-en.svg');"></div>
-		<a href="https://www.dropbox.com/s/tls5aap1b3o2x6y/shopee%20mall%20logo.sketch?dl=1" download>
-			<div class="download-link">
-				<div class="download-link__title">Download</div>
-			</div>
-		</a> -->
 	</div>
 </div>
 

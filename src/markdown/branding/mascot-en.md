@@ -25,7 +25,7 @@ The character and style of this Shogi is the core of the branding design, please
 </div>
 
 <div class="download-link">
-	<a class="download-link__title" href="https://www.dropbox.com/s/he9h5777b0xypk4/Shogi%20Stickers%20Guidelines%202.pdf?dl=1">Thailand Mascot Guideline</a>
+	<a class="download-link__title" href="https://www.dropbox.com/s/mx58xejp3gyf5s0/Shogi%20Stickers%20Guidelines.pdf?dl=1">Thailand Mascot Guideline</a>
 	<div class="download-link__description">11.3MB (PDF)</div>
 </div>
 
