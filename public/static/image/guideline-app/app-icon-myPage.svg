@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="790px" height="22px" viewBox="0 0 790 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 50</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.5191652%" x2="50%" y2="2.15441645%" id="linearGradient-1">
+            <stop stop-color="#FF6766" offset="0%"></stop>
+            <stop stop-color="#FF7761" offset="100%"></stop>
+        </linearGradient>
+        <rect x="0" y="0" width="22" height="22" id="rect-2"></rect>
+        <linearGradient x1="50%" y1="4.31281888%" x2="50%" y2="96.2736617%" id="linearGradient-3">
+            <stop stop-color="#FEB70B" offset="0%"></stop>
+            <stop stop-color="#F4A601" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#1FB5FB" offset="0%"></stop>
+            <stop stop-color="#1B9BEB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.47130102%" x2="50%" y2="96.3418963%" id="linearGradient-5">
+            <stop stop-color="#A2DE12" offset="0%"></stop>
+            <stop stop-color="#93C53F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.12850765%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#6AA0FF" offset="0%"></stop>
+            <stop stop-color="#6780F8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8799426%" id="linearGradient-7">
+            <stop stop-color="#1FB3FA" offset="0%"></stop>
+            <stop stop-color="#1C9EED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.9666773%" id="linearGradient-8">
+            <stop stop-color="#FF7370" offset="0%"></stop>
+            <stop stop-color="#FF5C5A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="8.19325286%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#6BA1FF" offset="0%"></stop>
+            <stop stop-color="#677DF8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FF7761" offset="0%"></stop>
+            <stop stop-color="#FF6766" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#A3DF11" offset="0%"></stop>
+            <stop stop-color="#92C441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFB80C" offset="0%"></stop>
+            <stop stop-color="#F3A500" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-992.000000, -6416.000000)">
+            <g id="Group-20" transform="translate(25.000000, 6297.000000)">
+                <g id="Group-50" transform="translate(966.000000, 118.000000)">
+                    <g id="Group-28" transform="translate(64.000000, 0.000000)">
+                        <g id="My-Purchase" transform="translate(1.000000, 1.000000)">
+                            <g id="Group-16">
+                                <g id="Bitmap">
+                                    <image x="0" y="0" width="22" height="22" xlink:href="data:image/png;base64,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"></image>
+                                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#rect-2"></use>
+                                </g>
+                            </g>
+                            <g id="Page-1" transform="translate(5.000000, 5.500000)" stroke="#FFFFFF">
+                                <path d="M11.62505,4.49995 L10.50005,0.5 C10.50005,0.294 10.33155,-1.11022302e-16 10.12505,-1.11022302e-16 L1.87505,-1.11022302e-16 C1.66855,-1.11022302e-16 1.50005,0.294 1.50005,0.5 L0.42205,4.26145 C0.41005,4.30795 0.40105,4.35595 0.39405,4.40495 L0.37505,4.49995 C0.37505,4.51095 0.38005,4.52045 0.38105,4.53095 C0.38005,4.55195 0.37505,4.57295 0.37505,4.59345 C0.37505,5.31895 0.96305,5.90645 1.68755,5.90645 C2.31505,5.90645 2.83955,5.46445 2.96855,4.87495 L3.28355,4.87495 C3.41255,5.46445 3.93605,5.90645 4.56455,5.90645 C5.19205,5.90645 5.71605,5.46445 5.84455,4.87495 L6.16355,4.87495 C6.29255,5.46445 6.81505,5.90645 7.44355,5.90645 C8.07255,5.90645 8.59505,5.46445 8.72455,4.87495 L9.02305,4.87495 C9.14005,5.47945 9.67205,5.93645 10.31055,5.93645 C11.03555,5.93645 11.62305,5.34795 11.62305,4.62395 C11.62305,4.59745 11.61655,4.57345 11.61505,4.54745 C11.61755,4.53145 11.62505,4.51645 11.62505,4.49995 Z" id="Stroke-1"></path>
+                                <path d="M10.50005,6.164 L10.50005,10.6199951 C10.50005,10.8259951 10.33155,11 10.12505,11 L1.87505,11 C1.66855,11 1.50005,10.8259951 1.50005,10.6199951 L1.50005,6.164" id="Stroke-3"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-25" transform="translate(128.000000, 0.000000)">
+                        <g id="Group-31">
+                            <g id="Oval-465-+-Star-1" transform="translate(1.000000, 1.000000)">
+                                <circle id="Oval-465" fill="url(#linearGradient-3)" cx="11" cy="11" r="11"></circle>
+                                <g id="Page-1" transform="translate(4.500000, 5.500000)">
+                                    <polyline id="Stroke-1" stroke="#FFFFFF" stroke-linejoin="round" points="8.62011719 10.5 0.5 10.5 0.5 0.5 11.5 0.5 11.5 3.5"></polyline>
+                                    <path d="M13.5918533,7.00028 C13.5918533,9.06201333 11.9202533,10.7336133 9.85852,10.7336133 C7.79678667,10.7336133 6.12518667,9.06201333 6.12518667,7.00028 C6.12518667,4.93854667 7.79678667,3.26694667 9.85852,3.26694667 C11.9202533,3.26694667 13.5918533,4.93854667 13.5918533,7.00028 Z" id="Stroke-3" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                                    <path d="M9.72225333,6.47257333 L9.70638667,5.68484 C9.70638667,5.68484 9.70825333,5.63537333 9.61025333,5.61577333 C9.52905333,5.59804 9.45158667,5.65497333 9.45158667,5.65497333 C9.41798667,5.68017333 7.82665333,6.70497333 7.82665333,6.70497333 C7.82665333,6.70497333 7.67452,6.78617333 7.67638667,6.94110667 C7.67918667,7.09230667 7.78932,7.15297333 7.78932,7.15297333 L9.46278667,8.11617333 C9.46278667,8.11617333 9.56825333,8.15257333 9.65692,8.13110667 C9.75305333,8.10964 9.75118667,8.03964 9.75118667,8.03964 L9.73625333,7.31070667 L11.3462533,7.28364 C11.3462533,7.28364 12.6174533,7.43297333 12.6258533,7.90337333 C12.6258533,7.90337333 12.5791867,6.42404 11.2911867,6.44644 L9.72225333,6.47257333 Z" id="Fill-7" fill="#FFFFFF"></path>
+                                    <path d="M0.803955078,3.5 L3.88938667,3.5" id="Stroke-9" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="My-Purchase">
+                        <g id="Group-22">
+                            <g id="Group-15">
+                                <circle id="Oval-465" fill="url(#linearGradient-4)" cx="12" cy="12" r="11"></circle>
+                                <g id="Group-18" transform="translate(7.000000, 6.000000)" stroke-linecap="round" stroke="#FFFFFF" stroke-linejoin="round">
+                                    <g id="Page-1" transform="translate(0.000000, 0.733333)">
+                                        <polyline id="Stroke-1" points="7.51391333 0.266666667 10 0.266666667 10 10.7666667 0.5 10.7666667 0.5 0.266666667 2.92838 0.266666667"></polyline>
+                                        <path d="M3,3.76666667 L7.5,3.76666667" id="Stroke-3"></path>
+                                        <path d="M3,6.76666667 L7.5,6.76666667" id="Stroke-4"></path>
+                                    </g>
+                                    <polygon id="Page-1" points="3 2 7.5 2 7.5 0 3 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-34" transform="translate(192.000000, 0.000000)" stroke="#FF5722">
+                        <g id="Group-26" transform="translate(1.000000, 1.000000)">
+                            <g id="Group-29">
+                                <rect id="Rectangle-5" stroke-width="1.5" x="0.75" y="0.75" width="20.5" height="20.5" rx="10.25"></rect>
+                                <g id="Group-30" transform="translate(6.000000, 6.000000)" stroke-width="2" stroke-linecap="round">
+                                    <path d="M0,5 L10,5" id="Path-6"></path>
+                                    <path d="M5,0 L5,10" id="Path-7"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-36" transform="translate(256.000000, 0.000000)">
+                        <g id="Group-27" transform="translate(1.000000, 1.000000)">
+                            <g id="Oval-465-+-Star-1">
+                                <circle id="Oval-465" fill="url(#linearGradient-5)" cx="11" cy="11" r="11"></circle>
+                                <polygon id="Page-1" stroke="#FFFFFF" stroke-linejoin="round" points="11.0625 4.37395 13.09075 9 17.625 9.141825 14.34375 12.33995 15.118125 16.857575 11.0625 14.724325 7.006875 16.857575 7.78125 12.33995 4.5 9.141825 9.03425 9"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-37" transform="translate(320.000000, 0.000000)">
+                        <g id="Group-18" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-5" fill="url(#linearGradient-6)" cx="11" cy="11" r="11"></circle>
+                            <g id="Page-1" transform="translate(4.500000, 6.500000)" stroke="#FFFFFF" stroke-linejoin="round">
+                                <polyline id="Stroke-1" points="1.57714844 8 0 8 0 1.66533454e-16 8 1.66533454e-16 8 8 4 8"></polyline>
+                                <polyline id="Stroke-3" points="9.65835294 8 8 8 8 2 11.3943529 2 13.5882353 8 11.6998824 8"></polyline>
+                                <path d="M3.97058824,8.23529412 C3.97058824,8.91717647 3.418,9.47058824 2.73529412,9.47058824 C2.05258824,9.47058824 1.5,8.91717647 1.5,8.23529412 C1.5,7.55341176 2.05258824,7 2.73529412,7 C3.418,7 3.97058824,7.55341176 3.97058824,8.23529412 Z" id="Stroke-5" stroke-linecap="round"></path>
+                                <path d="M11.9291529,8.23529412 C11.9291529,8.91717647 11.3765647,9.47058824 10.6938588,9.47058824 C10.0119765,9.47058824 9.45856471,8.91717647 9.45856471,8.23529412 C9.45856471,7.55341176 10.0119765,7 10.6938588,7 C11.3765647,7 11.9291529,7.55341176 11.9291529,8.23529412 Z" id="Stroke-7" stroke-linecap="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-38" transform="translate(384.000000, 0.000000)">
+                        <g id="Group-5" transform="translate(1.000000, 1.000000)">
+                            <g id="Group-19">
+                                <circle id="Oval-8" fill="url(#linearGradient-7)" cx="11" cy="11" r="11"></circle>
+                                <path d="M13.1466667,6.23906667 C12.9077333,6.47893333 12.7556,6.76826667 12.6744,7.0744 L10.5333333,4.93333333 L8.6004,6.86533333 C9.32186667,7.5868 9.404,8.8384 8.68253333,9.5608 C7.96013333,10.2822667 6.70946667,10.2001333 5.98706667,9.47866667 L4,11.4666667 L10.5333333,18 L17.0666667,11.4666667 L14.9256,9.3256 C15.2308,9.2444 15.5210667,9.09226667 15.76,8.85333333 C16.4814667,8.13093333 16.4814667,6.96053333 15.76,6.23906667 C15.0385333,5.51853333 13.8681333,5.51853333 13.1466667,6.23906667 Z" id="Page-1" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-39" transform="translate(448.000000, 0.000000)">
+                        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                            <g id="Oval-465-+-Star-1">
+                                <circle id="Oval-465" fill="url(#linearGradient-8)" cx="11" cy="11" r="11"></circle>
+                                <g id="Page-1" transform="translate(5.000000, 5.000000)" stroke="#FFFFFF" stroke-linejoin="round">
+                                    <path d="M1.5,11.5 L10.5,11.5 L10.5,11.5 C11.0522847,11.5 11.5,11.0522847 11.5,10.5 L11.5,1.5 L11.5,1.5 C11.5,0.94771525 11.0522847,0.5 10.5,0.5 L1.5,0.5 L1.5,0.5 C0.94771525,0.5 0.5,0.94771525 0.5,1.5 L0.5,10.5 L0.5,10.5 C0.5,11.0522847 0.94771525,11.5 1.5,11.5 Z" id="Stroke-1"></path>
+                                    <path d="M11.8214571,8 L8.28574286,8 C7.34288571,8 6.5,7.19285714 6.5,6.25 C6.5,5.30628571 7.34288571,4.5 8.28574286,4.5 L11.8214571,4.5" id="Stroke-3"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-40" transform="translate(512.000000, 0.000000)">
+                        <g id="Group-4" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-700" fill="url(#linearGradient-9)" cx="11" cy="11" r="11"></circle>
+                            <circle id="Oval-2" stroke="#FFFFFF" cx="11" cy="11" r="6.5"></circle>
+                            <path d="M9,9.3451087 L9.79534884,9.3451087 C9.84651163,8.66508152 10.2930233,8.24184783 10.9953488,8.24184783 C11.6883721,8.24184783 12.1348837,8.67459239 12.1348837,9.2642663 C12.1348837,9.77309783 11.9255814,10.0726902 11.3860465,10.4103261 C10.7488372,10.8002717 10.4511628,11.2282609 10.455814,11.8559783 L10.455814,12.2934783 L11.2697674,12.2934783 L11.2697674,11.984375 C11.2697674,11.4850543 11.4372093,11.21875 12.027907,10.8620924 C12.6232558,10.4959239 13,9.96807065 13,9.22146739 C13,8.24184783 12.2,7.5 11.027907,7.5 C9.72093023,7.5 9.05116279,8.31793478 9,9.3451087 Z M10.9255814,14.5 C11.3023256,14.5 11.5674419,14.2241848 11.5674419,13.8389946 C11.5674419,13.4490489 11.3023256,13.1732337 10.9255814,13.1732337 C10.5488372,13.1732337 10.2790698,13.4490489 10.2790698,13.8389946 C10.2790698,14.2241848 10.5488372,14.5 10.9255814,14.5 Z" id="?" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                    <g id="Group-41" transform="translate(576.000000, 0.000000)">
+                        <g id="Group-3" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-4" fill="url(#linearGradient-10)" cx="11" cy="11" r="11"></circle>
+                            <path d="M11.1129032,8.76627097 L12.240129,7.55852903 C13.2860645,6.51259355 14.9753548,6.51259355 15.9415484,7.55852903 C16.9874839,8.60523871 16.9874839,10.3750452 15.9415484,11.4217548 L11.1129032,16.4106581 L6.28503226,11.4217548 C5.23832258,10.4563355 5.23832258,8.68575484 6.28503226,7.63981935 C7.33096774,6.59310968 9.02103226,6.59310968 9.98645161,7.63981935 L11.1129032,8.76627097 Z" id="Page-1" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                    <g id="Group-42" transform="translate(640.000000, 0.000000)">
+                        <g id="Group-5" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-752" fill="url(#linearGradient-11)" cx="11" cy="11" r="11"></circle>
+                            <g id="Page-1" transform="translate(4.000000, 4.000000)" stroke="#FFFFFF">
+                                <path d="M13.5333333,7.00028 C13.5333333,10.6076133 10.6082667,13.5336133 7,13.5336133 C3.39173333,13.5336133 0.466666667,10.6076133 0.466666667,7.00028 C0.466666667,3.39201333 3.39173333,0.466946667 7,0.466946667 C10.6082667,0.466946667 13.5333333,3.39201333 13.5333333,7.00028 Z" id="Stroke-1"></path>
+                                <polyline id="Stroke-3" stroke-linecap="round" stroke-linejoin="round" points="6.53333333 3.3999939 6.53333333 7.5 10.7333333 7.5"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-43" transform="translate(704.000000, 0.000000)">
+                        <g id="Oval-465-+-Star-1" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-465" fill="url(#linearGradient-12)" cx="11" cy="11" r="11"></circle>
+                            <g id="Group-5" transform="translate(4.000000, 4.000000)">
+                                <path d="M13.5666667,7.03333333 C13.5666667,10.6416 10.6416,13.5666667 7.03333333,13.5666667 C3.42506667,13.5666667 0.5,10.6416 0.5,7.03333333 C0.5,3.426 3.42506667,0.5 7.03333333,0.5 C10.6416,0.5 13.5666667,3.426 13.5666667,7.03333333 Z" id="Stroke-1" stroke="#FFFFFF"></path>
+                                <path d="M5.46733928,3.83943054 C4.98107262,4.27063054 4.75707262,5.05463054 4.93347262,5.67996387 C5.08653928,6.2212972 5.53827262,6.61983054 6.01613928,6.88116387 C6.27840595,7.0248972 6.56307262,7.14623054 6.85240595,7.2264972 C6.92427262,7.2460972 6.99520595,7.26383054 7.06520595,7.28623054 C7.13613928,7.30863054 7.20613928,7.33196387 7.27520595,7.3580972 C7.31813928,7.37303054 7.36200595,7.39076387 7.40493928,7.40663054 C7.41707262,7.4112972 7.48147262,7.43836387 7.43293928,7.41783054 C7.38347262,7.39823054 7.48427262,7.44023054 7.49453928,7.44583054 C7.69893928,7.53823054 7.89400595,7.6464972 8.07787262,7.77436387 C8.15907262,7.83036387 8.11053928,7.7920972 8.18613928,7.85743054 C8.22627262,7.8928972 8.26640595,7.92836387 8.30467262,7.9656972 C8.34293928,8.00396387 8.38027262,8.04316387 8.41480595,8.0832972 C8.47640595,8.1532972 8.44747262,8.11503054 8.49600595,8.1924972 C8.62293928,8.39783054 8.66960595,8.54996387 8.66213928,8.78983054 C8.65560595,9.03436387 8.56320595,9.2816972 8.43160595,9.43663054 C8.09653928,9.8332972 7.55613928,9.9816972 7.05680595,9.9564972 C6.70213928,9.93876387 6.31480595,9.8612972 5.99933928,9.72783054 C5.67920595,9.59156387 5.39267262,9.3824972 5.11547262,9.17716387 C4.93813928,9.04556387 4.65907262,9.1472972 4.55547262,9.32463054 C4.43413928,9.53276387 4.52467262,9.75303054 4.70293928,9.88556387 C5.23773928,10.2812972 5.79680595,10.5902305 6.46133928,10.7040972 C7.09133928,10.8114305 7.69240595,10.7964972 8.28507262,10.5370305 C8.83947262,10.2934305 9.29120595,9.81463054 9.42747262,9.2144972 C9.56840595,8.58823054 9.41067262,7.98623054 8.99347262,7.5036972 C8.50813928,6.94183054 7.76893928,6.63103054 7.06893928,6.43596387 C6.98493928,6.41263054 6.90187262,6.38463054 6.81973928,6.3528972 C6.77400595,6.33703054 6.72827262,6.31836387 6.68347262,6.2996972 C6.76933928,6.3360972 6.65173928,6.28476387 6.62747262,6.27263054 C6.52480595,6.22596387 6.42400595,6.17276387 6.32693928,6.1148972 C5.90507262,5.8628972 5.64840595,5.57543054 5.70720595,5.0928972 C5.78187262,4.48343054 6.24480595,4.18103054 6.81320595,4.13623054 C7.38813928,4.09236387 7.98453928,4.23796387 8.44653928,4.55156387 C8.88333928,4.84743054 9.29307262,4.1380972 8.85907262,3.8440972 C7.91360595,3.20103054 6.36707262,3.04236387 5.46733928,3.83943054" id="Fill-3" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-47" transform="translate(768.000000, 0.000000)">
+                        <g id="Group-22" transform="translate(1.000000, 1.000000)">
+                            <circle id="Oval-465" fill="url(#linearGradient-4)" cx="11" cy="11" r="11"></circle>
+                            <g id="Page-1" transform="translate(5.000000, 4.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M9.67772,4.18886 C9.67772,6.26366 7.99638667,7.94412667 5.92245333,7.94412667 C3.84765333,7.94412667 2.16632,6.26366 2.16632,4.18886 C2.16632,2.11406 3.84765333,0.433593333 5.92245333,0.433593333 C7.99638667,0.433593333 9.67772,2.11406 9.67772,4.18886 Z" id="Stroke-1"></path>
+                                <path d="M8.63165333,6.78886 C11.0548533,6.73512667 11.4110533,11.4107933 11.4110533,11.4107933 C11.4110533,12.04606 10.8910533,12.5 10.2557867,12.5 L1.58912,12.5 C0.953853333,12.5 0.433853333,12.04606 0.433853333,11.4107933 C0.433853333,11.4107933 0.709453333,6.68052667 3.21325333,6.78886" id="Stroke-3"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

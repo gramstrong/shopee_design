@@ -1,128 +1,126 @@
-# Color
 
-<div class="media-holder">
-<div class="color-tab">
-	<div class="color-subtab" style="background-color:#ff5722">
-		<div class="color-tab-name">
-		Shopee Orange
+<div class="guideline color">
+	<div class="container">
+		<h1>Color</h1>
+		<h3>Primary Color</h3>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Small area used for special need to emphasize and highlight text, buttons and icons.</p>
+				<p class="text-muted">eg: button, edit product save, checkout address icon.</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #ff5622;"></div>
+				#FF5622
+			</div>
 		</div>
-		<div class="color-tab-value">
-			#FF5722
+		<hr>
+		<h3>Axuiliary Colors</h3>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Small area for use in highlighting text, Coins related page background and icon</p>
+				<p>eg: Payment page, tip text</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #FFAE04;"></div>
+				#FFAE04
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Small area used for already having an identifier icon</p>
+				<p>eg: Free Shipping, Chat</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #00BFA5;"></div>
+				#00BFA5
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for error message</p>
+				<p>eg: erros message of log in.</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #FF424F;"></div>
+				#FF424F
+			</div>
+		</div>
+		<hr>
+		<h3>Text Colors</h3>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for Primary text</p>
+				<p>eg: title</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,0.87);"></div>
+				#Black87
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used to assist text</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,0.65);"></div>
+				#Black65
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used to assist text</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,0.54);"></div>
+				#Black54
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for hint for input text, and disabled text</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,0.26);"></div>
+				#Black26
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for border line of item/product</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,0.09);"></div>
+				#Black9
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for link of text</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #0055AA;"></div>
+				#0055AA
+			</div>
+		</div>
+		<hr>
+		<h3>Background Color</h3>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for background color of APP</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: #EFEFEF;"></div>
+				#EFEFEF
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<p>Used for background color of see more</p>
+			</div>
+			<div class="col-xs-3">
+				<div class="color-tag" style="background: rgba(0,0,0,02);"></div>
+				#Black2
+			</div>
 		</div>
 	</div>
 </div>
-<div class="color-tab">
-	<div class="color-subtab" style="background-color:rgba(0,0,0,.87)">
-		<div class="color-tab-name">
-		Grey87
-		</div>
-		<div class="color-tab-value">
-			rgba(0,0,0,87)
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:rgba(0,0,0,.65)">
-		<div class="color-tab-name">
-		Grey65
-		</div>
-		<div class="color-tab-value">
-			rgba(0,0,0,65)
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:rgba(0,0,0,.54)">
-		<div class="color-tab-name">
-		Grey54
-		</div>
-		<div class="color-tab-value">
-			rgba(0,0,0,54)
-		</div>
-	</div>
-	<div class="color-subtab-inverse" style="background-color:rgba(0,0,0,.26)">
-		<div class="color-tab-name">
-		Grey26
-		</div>
-		<div class="color-tab-value">
-			rgba(0,0,0,26)
-		</div>
-	</div>
-	<div class="color-subtab-inverse" style="background-color:rgba(0,0,0,.09)">
-		<div class="color-tab-name">
-		Grey09
-		</div>
-		<div class="color-tab-value">
-			rgba(0,0,0,9)
-		</div>
-	</div>
-	<div class="color-subtab-inverse" style="background-color:#EFEFEF">
-		<div class="color-tab-name">
-		Background
-		</div>
-		<div class="color-tab-value">
-			#EFEFEF
-		</div>
-	</div>
-</div>
-</div>
-
-## Main Color
-
-To be fill in the cases where the colors are used.
-
----
-
-<div class="media-holder">
-<div class="color-tab">
-	<div class="color-subtab" style="background-color:#003366">
-		<div class="color-tab-name">
-		Dark Blue
-		</div>
-		<div class="color-tab-value">
-			#003366
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:#0055AA">
-		<div class="color-tab-name">
-		Blue
-		</div>
-		<div class="color-tab-value">
-			#0055AA
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:#AADDFF">
-		<div class="color-tab-name">
-		Light Blue
-		</div>
-		<div class="color-tab-value">
-			#AADDFF
-		</div>
-	</div>
-</div>
-<div class="color-tab">
-	<div class="color-subtab" style="background-color:#FFAE04">
-		<div class="color-tab-name">
-		Yellow
-		</div>
-		<div class="color-tab-value">
-			#003366
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:#00BFA5">
-		<div class="color-tab-name">
-		Cyan
-		</div>
-		<div class="color-tab-value">
-			#0055AA
-		</div>
-	</div>
-	<div class="color-subtab" style="background-color:#FF424F">
-		<div class="color-tab-name">
-		Red
-		</div>
-		<div class="color-tab-value">
-			#FF424F
-		</div>
-	</div>
-</div>
-</div>
-
-## Auxiliary Color
-To be added: the cases and explainations on where the colors are used.

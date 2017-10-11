@@ -8,7 +8,8 @@
   "Style Guide": [
     "Color", 
     "Typography", 
-    "Iconography"
+    "Iconography",
+    "Image"
   ],
   "Components": [
   	"Button"
