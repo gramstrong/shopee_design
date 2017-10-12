@@ -12,6 +12,10 @@ class Submenu extends PureComponent {
     this.setState({ visible: !this.state.visible });
   };
 
+  shouldComponentUpdate(nextProps, nextState) {
+    return nextProps.opened === this.props.opened;
+  }
+
   render() {
     const { root, gdlName, submenu } = this.props;
 
