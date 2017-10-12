@@ -132,16 +132,9 @@ class Navbar extends PureComponent {
                     Home
                   </a>
                 </li>
-                {/*
-                  <li>
-                    <a href="/product" className="nav-item">
-                      Product
-                    </a>
-                  </li>
-                */}
                 <li className="dropdown">
                   <a
-                    href="#"
+                    href="/product/app-guideline"
                     className="dropdown-toggle nav-item"
                     data-toggle="dropdown"
                   >
