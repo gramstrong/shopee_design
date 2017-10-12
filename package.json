@@ -23,6 +23,7 @@
     "babel-loader": "^6.2.2",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.5.0",
+    "classnames": "^2.2.5",
     "http-server": "^0.8.5",
     "node-sass": "^4.5.3",
     "prop-types": "^15.6.0",
