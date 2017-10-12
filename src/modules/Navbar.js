@@ -1,4 +1,5 @@
 import React, { PureComponent } from "react";
+import { DropdownButton, MenuItem } from 'react-bootstrap';
 import cn from "classnames";
 
 class Navbar extends PureComponent {
@@ -132,28 +133,14 @@ class Navbar extends PureComponent {
                     Home
                   </a>
                 </li>
-                <li className="dropdown">
-                  <a
-                    href="/product/app-guideline"
-                    className="dropdown-toggle nav-item"
-                    data-toggle="dropdown"
-                  >
-                    Product
-                    <span className="caret" />
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li>
-                      <a href="/product/sc-guideline">
-                        Seller Center Guideline
-                      </a>
-                    </li>
-                    <li>
-                      <a href="/product/pcmall-guideline">PC Mall Guideline</a>
-                    </li>
-                    <li>
-                      <a href="/product/app-guideline">Mobile App Guideline</a>
-                    </li>
-                  </ul>
+                <li>
+                <li>
+                  <DropdownButton className="nav-item" title="Product" id="product-dropdown">
+                        <MenuItem href="/product/sc-guideline">Seller Center Guideline</MenuItem>
+                        <MenuItem href="/product/pcmall-guideline">PC Mall Guideline</MenuItem>
+                        <MenuItem href="/product/app-guideline">Mobile App Guideline</MenuItem>
+                  </DropdownButton>
+                </li>
                 </li>
                 <li>
                   <a href="/branding" className="nav-item">
