@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
-export default React.createClass({
-  render() {
-    return <div>Join us</div>
-  }
-})
+const Joinus = () => <div>Join us</div>;
+
+export default Joinus;
