@@ -121,7 +121,7 @@ class Home extends PureComponent {
         <div className="search">
           <div className="container">
             <div className="row">
-              <div className="col-md-7">
+              <div className="col-md-8">
                 <h3 className="header">
                   <span className="brandname">Shopee Design </span>
                   exists to enhance<br /> user experience & work efficiency
@@ -181,18 +181,19 @@ class Home extends PureComponent {
               </div>
             </div>
           </div>
-          <hr />
+
         </div>
+        <hr />
         <div className="medium">
           <div className="container">
             <div className="title">Articles</div>
             {mediumPosts.isFetching ? (
               <div className="col-xs-12">Loading Medium content...</div>
             ) : (
-              <div id="content">
-                {mediumPosts.items.map(this.renderMediumPostItem)}
-              </div>
-            )}
+                <div id="content">
+                  {mediumPosts.items.map(this.renderMediumPostItem)}
+                </div>
+              )}
             {mediumPosts.error ? (
               <div className="col-xs-12">
                 <div className="alert alert-danger">

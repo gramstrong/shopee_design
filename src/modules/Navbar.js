@@ -40,72 +40,6 @@ class Navbar extends PureComponent {
 
     return (
       <div>
-        {/*
-          <div className={"navbar" + classes}>
-            <div className="container">
-              <Link to="/">
-                <img src="/static/image/logo.svg" className="nav-logo" alt="" />
-              </Link>
-
-              <div className="nav-links">
-                <a className="nav-item" href="/">
-                  Home
-                </a>
-                <div className="dropdown">
-                  <Link
-                    className="nav-item"
-                    to="/product"
-                    activeClassName="active"
-                  >
-                    Product
-                  </Link>
-                  {this.props.params.gdlName ? (
-                    <div />
-                  ) : (
-                    <div className="dropdown-content">
-                      <Link
-                        className="dropdown-item"
-                        to="/product/sc-guideline"
-                        activeClassName="active"
-                      >
-                        Seller Center Guideline
-                      </Link>
-                      <Link
-                        className="dropdown-item"
-                        to="/product/pcmall-guideline"
-                        activeClassName="active"
-                      >
-                        PC Mall Guideline
-                      </Link>
-                      <Link
-                        className="dropdown-item"
-                        to="/product/app-guideline"
-                        activeClassName="active"
-                      >
-                        Mobile App Guideline
-                      </Link>
-                    </div>
-                  )}
-                </div>
-                <Link
-                  className="nav-item"
-                  to="/branding"
-                  activeClassName="active"
-                >
-                  Branding
-                </Link>
-                <a
-                  className="nav-item"
-                  href="http://careers.shopee.sg/job?department_id=17"
-                  target="_blank"
-                >
-                  Join Us
-                </a>
-              </div>
-            </div>
-          </div>
-        */}
-
         <div className={classes}>
           <div className="container">
             <div className="navbar-header">
@@ -135,8 +69,8 @@ class Navbar extends PureComponent {
                 </li>
                 <li>
                   <DropdownButton className="nav-item" title="Product" id="product-dropdown">
-                    <MenuItem href="/product/sc-guideline">Seller Center Guideline</MenuItem>
-                    <MenuItem href="/product/pcmall-guideline">PC Mall Guideline</MenuItem>
+                    <MenuItem href="" className="disabled">Seller Center Guideline</MenuItem>
+                    <MenuItem href="" className="disabled">PC Mall Guideline</MenuItem>
                     <MenuItem href="/product/app-guideline">Mobile App Guideline</MenuItem>
                   </DropdownButton>
                 </li>
