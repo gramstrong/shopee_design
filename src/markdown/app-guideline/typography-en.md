@@ -4,7 +4,7 @@
 		<h1>Typography</h1>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for top navbar</p>
+				<h6>Used for top navbar</h6>
 			</div>
 			<div class="col-xs-3">
 				<p>Weight: Regular, font-size: 20px (R20px)</p>
@@ -12,7 +12,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for text title and top navigation button text</p>
+				<h6>Used for text title and top navigation button text</h6>
 				<p>eg: button of save</p>
 			</div>
 			<div class="col-xs-3">
@@ -22,7 +22,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Use for emphasize the price</p>
+				<h6>Use for emphasize the price</h6>
 			</div>
 			<div class="col-xs-3">
 				<p>Weight: Medium, font-size: 16px (M16px)</p>
@@ -31,7 +31,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for text title</p>
+				<h6>Used for text title</h6>
 				<p>eg: Shop Name button</p>
 			</div>
 			<div class="col-xs-3">
@@ -40,7 +40,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Use for assist text</p>
+				<h6>Use for assist text</h6>
 				<p>eg: Address detail</p>
 			</div>
 			<div class="col-xs-3">
@@ -50,7 +50,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for description text</p>
+				<h6>Used for description text</h6>
 				<p>eg: My purchase of Variation, item description</p>
 			</div>
 			<div class="col-xs-3">
@@ -60,7 +60,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for description text</p>
+				<h6>Used for description text</h6>
 				<p>eg: time description</p>
 			</div>
 			<div class="col-xs-3">

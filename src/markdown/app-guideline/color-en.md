@@ -4,7 +4,7 @@
 		<h3>Primary Color</h3>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Small area used for special need to emphasize and highlight text, buttons and icons.</p>
+				<h6>Small area used for special need to emphasize and highlight text, buttons and icons.</h6>
 				<p class="text-muted">eg: button, edit product save, checkout address icon.</p>
 			</div>
 			<div class="col-xs-3">
@@ -16,7 +16,7 @@
 		<h3>Axuiliary Colors</h3>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Small area for use in highlighting text, Coins related page background and icon</p>
+				<h6>Small area for use in highlighting text, Coins related page background and icon</h6>
 				<p>eg: Payment page, tip text</p>
 			</div>
 			<div class="col-xs-3">
@@ -26,7 +26,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Small area used for already having an identifier icon</p>
+				<h6>Small area used for already having an identifier icon</h6>
 				<p>eg: Free Shipping, Chat</p>
 			</div>
 			<div class="col-xs-3">
@@ -36,7 +36,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for error message</p>
+				<h6>Used for error message</h6>
 				<p>eg: erros message of log in.</p>
 			</div>
 			<div class="col-xs-3">
@@ -48,7 +48,7 @@
 		<h3>Text Colors</h3>
 		<div class="row">
 			<div class="col-xs-6">
-				<p>Used for Primary text</p>
+				<h6>Used for Primary text</h6>
 				<p>eg: title</p>
 			</div>
 			<div class="col-xs-3">

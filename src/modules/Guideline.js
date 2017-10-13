@@ -59,7 +59,7 @@ class Guideline extends PureComponent {
     var menu = require("../" + gdlName + "-menu.json");
     var opened = "";
     if (gdlName === "sc-guideline") {
-      compName += "-cn";
+      compName += "-en";
     } else {
       compName += "-en";
     }
