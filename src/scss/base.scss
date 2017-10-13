@@ -130,7 +130,7 @@ a {
 		img{
 			height: 40px;
 		}
-		
+
 	}
 	&.navbar-closed{
 		visibility: hidden;
@@ -644,5 +644,14 @@ input:focus {
 	}
 	p{
 		margin: 0 0 10px 0;
+	}
+}
+
+#product-dropdown {
+	border: none;
+	margin-left: 30px;
+
+	&:focus {
+		background-color: white;
 	}
 }

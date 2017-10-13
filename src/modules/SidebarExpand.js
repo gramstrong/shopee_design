@@ -22,6 +22,7 @@ class SidebarExpand extends PureComponent {
           header={key}
           key={this.props.gdlName + key}
           lang={this.props.lang}
+          location={this.props.location}
         />
       );
     }

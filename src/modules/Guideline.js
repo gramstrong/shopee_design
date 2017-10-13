@@ -110,6 +110,7 @@ class Guideline extends PureComponent {
                 gdlName={gdlName}
                 compName={compName}
                 lang={lang}
+                location={this.props.location}
               />
 
               {/*
