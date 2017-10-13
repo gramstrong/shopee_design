@@ -77,7 +77,6 @@ class Home extends PureComponent {
     fetch(`${apiUrl}?${queryParams(data)}`)
       .then(response => response.json())
       .then(response => {
-        console.log(response);
 
         if (response.status !== "ok") {
           throw new Error("Server response is not ok");

@@ -5,3 +5,11 @@
 
 //Import Mixins
 @import 'mixins';
+
+
+.text-nowrap {
+  white-space: nowrap;
+}
+.vertical-middle{
+	vertical-align: middle;
+}

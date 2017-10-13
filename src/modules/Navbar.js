@@ -134,13 +134,11 @@ class Navbar extends PureComponent {
                   </a>
                 </li>
                 <li>
-                <li>
                   <DropdownButton className="nav-item" title="Product" id="product-dropdown">
-                        <MenuItem href="/product/sc-guideline">Seller Center Guideline</MenuItem>
-                        <MenuItem href="/product/pcmall-guideline">PC Mall Guideline</MenuItem>
-                        <MenuItem href="/product/app-guideline">Mobile App Guideline</MenuItem>
+                    <MenuItem href="/product/sc-guideline">Seller Center Guideline</MenuItem>
+                    <MenuItem href="/product/pcmall-guideline">PC Mall Guideline</MenuItem>
+                    <MenuItem href="/product/app-guideline">Mobile App Guideline</MenuItem>
                   </DropdownButton>
-                </li>
                 </li>
                 <li>
                   <a href="/branding" className="nav-item">
