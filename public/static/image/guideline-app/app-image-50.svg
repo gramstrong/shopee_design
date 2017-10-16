@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="422px" height="173px" viewBox="0 0 422 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 68</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="12" y="12" width="50" height="50"></rect>
+        <rect id="path-2" x="0" y="24" width="50" height="50"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1170.000000, -9300.000000)">
+            <g id="Group-68" transform="translate(1170.000000, 9300.000000)">
+                <rect id="Rectangle-4" fill="#EBEBEB" x="0" y="0" width="422" height="173"></rect>
+                <g id="Group-80" transform="translate(0.000000, 8.000000)">
+                    <g id="list_5" transform="translate(0.000000, 3.000000)">
+                        <rect id="list-bg-copy-2" fill="#FFFFFF" x="0" y="0" width="375" height="74"></rect>
+                        <rect id="Rectangle-2" fill-opacity="0.1" fill="#000000" x="72" y="12" width="74" height="19"></rect>
+                        <rect id="Rectangle-2" fill-opacity="0.1" fill="#000000" x="72" y="37" width="265" height="10"></rect>
+                        <rect id="Rectangle-2" fill-opacity="0.1" fill="#000000" x="72" y="53" width="265" height="10"></rect>
+                        <rect id="line" fill-opacity="0.09" fill="#000000" x="0" y="73.5" width="375" height="1"></rect>
+                        <g id="Rectangle">
+                            <use fill-opacity="0.1" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke-opacity="0.09" stroke="#000000" stroke-width="0.5" x="12.25" y="12.25" width="49.5" height="49.5"></rect>
+                        </g>
+                    </g>
+                    <g id="HORIZONTAL#7444B26E-2334-46F7-9990-5C13F68D1431#6C8F0418-7388-4091-8C0F-8A81B7144DAE" transform="translate(50.000000, 0.000000)" fill="#FF5722">
+                        <rect id="ruler-start" x="11" y="18" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="20" y="18" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="11" y="20" width="10" height="1"></rect>
+                        <text id="label-text" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal">
+                            <tspan x="0" y="13">10px</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-83" transform="translate(13.000000, 85.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke-opacity="0.09" stroke="#000000" stroke-width="0.5" x="0.25" y="24.25" width="49.5" height="49.5"></rect>
+                    </g>
+                    <g id="WIDTH#EDC49125-F61A-4593-977B-6FC9727EAE13">
+                        <rect id="ruler-start" fill="#FF5500" x="0" y="16" width="1" height="5"></rect>
+                        <rect id="ruler-end" fill="#FF5500" x="49" y="16" width="1" height="5"></rect>
+                        <rect id="ruler-line" fill="#FF5500" x="0" y="18" width="50" height="1"></rect>
+                        <text id="50px" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FF5722">
+                            <tspan x="12.162" y="11">50px</tspan>
+                        </text>
+                    </g>
+                    <g id="HEIGHT#EDC49125-F61A-4593-977B-6FC9727EAE13" transform="translate(53.000000, 24.000000)">
+                        <rect id="ruler-start" fill="#FF5500" x="0" y="0" width="5" height="1"></rect>
+                        <rect id="ruler-end" fill="#FF5500" x="0" y="49" width="5" height="1"></rect>
+                        <rect id="ruler-line" fill="#FF5500" x="2" y="0" width="1" height="50"></rect>
+                        <text id="50px" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FF5722">
+                            <tspan x="8.162" y="29">50px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

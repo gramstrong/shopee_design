@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="478px" height="94px" viewBox="0 0 478 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 78</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170711-V0.9.2" transform="translate(-800.000000, -1886.000000)">
+            <g id="Group-73" transform="translate(106.000000, 1845.000000)">
+                <g id="Group-78" transform="translate(694.000000, 39.000000)">
+                    <g id="Group-56" transform="translate(0.000000, 32.000000)">
+                        <g id="Group-6">
+                            <g id="Group-17">
+                                <rect id="Rectangle-2" fill="#FF5722" x="0" y="0" width="140" height="40" rx="2"></rect>
+                                <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FAFAFA">
+                                    <tspan x="42.8613281" y="24">A Button</tspan>
+                                </text>
+                            </g>
+                            <text id="Text-Button" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                                <tspan x="24" y="63">Text Button</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-6" transform="translate(194.000000, 0.000000)">
+                            <g id="Group-17">
+                                <rect id="Rectangle-2" fill="#FF5722" x="0" y="0" width="160" height="40" rx="2"></rect>
+                                <g id="Group-31" transform="translate(42.000000, 9.000000)">
+                                    <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FAFAFA">
+                                        <tspan x="22.8613281" y="15">A Button</tspan>
+                                    </text>
+                                    <path d="M7.5,13.2928932 L9.64644661,11.1464466 C9.84170876,10.9511845 10.1582912,10.9511845 10.3535534,11.1464466 C10.5488155,11.3417088 10.5488155,11.6582912 10.3535534,11.8535534 L7.35355339,14.8535534 C7.15829124,15.0488155 6.84170876,15.0488155 6.64644661,14.8535534 L3.64644661,11.8535534 C3.45118446,11.6582912 3.45118446,11.3417088 3.64644661,11.1464466 C3.84170876,10.9511845 4.15829124,10.9511845 4.35355339,11.1464466 L6.5,13.2928932 L6.5,4.5 C6.5,4.22385763 6.72385763,4 7,4 C7.27614237,4 7.5,4.22385763 7.5,4.5 L7.5,13.2928932 Z M0,13.5 C0,13.2238576 0.223857625,13 0.5,13 C0.776142375,13 1,13.2238576 1,13.5 L1,16 C1,16.5488576 1.45114237,17 2,17 L12,17 C12.5488576,17 13,16.5488576 13,16 L13,13.5 C13,13.2238576 13.2238576,13 13.5,13 C13.7761424,13 14,13.2238576 14,13.5 L14,16 C14,17.1011424 13.1011424,18 12,18 L2,18 C0.898857625,18 0,17.1011424 0,16 L0,13.5 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                            <text id="Icon-+-Text" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                                <tspan x="40" y="63">Icon + Text</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-6" transform="translate(408.000000, 0.000000)">
+                            <text id="Icon" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                                <tspan x="18" y="63">Icon</tspan>
+                            </text>
+                            <g id="Group-27">
+                                <rect id="Rectangle-2" fill="#FF5722" x="0" y="0" width="70" height="40" rx="2"></rect>
+                                <path d="M41.8518519,25.8148148 L38.5925926,22.6296296 C39.4074074,21.5925926 39.8518519,20.3333333 39.8518519,18.9259259 C39.8518519,15.6666667 37.1851852,13 33.9259259,13 C30.6666667,13 28,15.6666667 28,18.9259259 C28,22.1851852 30.6666667,24.8518519 33.9259259,24.8518519 C35.2592593,24.8518519 36.5925926,24.4074074 37.5555556,23.5925926 L40.8148148,26.7777778 C40.962963,26.9259259 41.1111111,27 41.3333333,27 C41.5555556,27 41.7037037,26.9259259 41.8518519,26.7777778 C42.1481481,26.5555556 42.1481481,26.1111111 41.8518519,25.8148148 Z M29.4814815,18.9259259 C29.4814815,16.4814815 31.4814815,14.4814815 33.9259259,14.4814815 C36.3703704,14.4814815 38.3703704,16.4814815 38.3703704,18.9259259 C38.3703704,21.3703704 36.3703704,23.3703704 33.9259259,23.3703704 C31.4814815,23.3703704 29.4814815,21.4444444 29.4814815,18.9259259 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="HORIZONTAL#129ABE00-FEAB-4822-9035-5E40BCF9EA31#F4ACC771-AB43-4D6F-BDD3-374285C59F62" transform="translate(163.000000, 0.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="87" y="19" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="94" y="19" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="87" y="21" width="8" height="1"></rect>
+                        <text id="Spacing-between-Icon" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="1.79101562" y="11">Spacing between Icon &amp; Text: 8px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

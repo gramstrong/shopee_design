@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="66px" viewBox="0 0 82 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="47" r="20"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1170.000000, -8813.000000)">
+            <g id="Group-4" transform="translate(1170.000000, 8812.000000)">
+                <g id="Group-5">
+                    <g id="Mask">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke-opacity="0.09" stroke="#000000" stroke-width="1" cx="20" cy="47" r="19.5"></circle>
+                    </g>
+                    <g id="WIDTH#3DBF008F-8370-4E51-B172-5C8D3899744F">
+                        <rect id="ruler-start" fill="#FF5500" x="0" y="17" width="1" height="5"></rect>
+                        <rect id="ruler-end" fill="#FF5500" x="39" y="17" width="1" height="5"></rect>
+                        <rect id="ruler-line" fill="#FF5500" x="0" y="19" width="40" height="1"></rect>
+                        <text id="label-text" font-family="SFUIText-Regular, SF UI Text" font-size="12" font-weight="normal" fill="#FF5722">
+                            <tspan x="5.19726562" y="11">40px</tspan>
+                        </text>
+                    </g>
+                    <g id="HEIGHT#3DBF008F-8370-4E51-B172-5C8D3899744F" transform="translate(44.000000, 27.000000)">
+                        <rect id="ruler-start" fill="#FF5500" x="0" y="0" width="5" height="1"></rect>
+                        <rect id="ruler-end" fill="#FF5500" x="0" y="39" width="5" height="1"></rect>
+                        <rect id="ruler-line" fill="#FF5500" x="2" y="0" width="1" height="40"></rect>
+                        <text id="label-text" font-family="SFUIText-Regular, SF UI Text" font-size="12" font-weight="normal" fill="#FF5722">
+                            <tspan x="9.19726562" y="23">40px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

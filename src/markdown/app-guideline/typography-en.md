@@ -70,7 +70,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-12">
-				<img src="/static/image/guideline-app/app-text.png" alt="app text demo" class="img-responsive">
+				<img src="/static/image/guideline-app/app-text.svg" alt="app text demo" class="img-responsive">
 			</div>
 		</div>
 	</div>

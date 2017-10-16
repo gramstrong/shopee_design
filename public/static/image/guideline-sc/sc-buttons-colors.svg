@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="537px" height="321px" viewBox="0 0 537 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="40" rx="2"></rect>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170711-V0.9.2" transform="translate(-883.000000, -2192.000000)">
+            <g id="Group-13" transform="translate(883.000000, 2192.000000)">
+                <text id="OUTLINE" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="0" y="150">OUTLINE</tspan>
+                </text>
+                <rect id="Rectangle-14" fill-opacity="0.65" fill="#000000" x="170" y="112" width="367" height="100"></rect>
+                <text id="Default" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="232" y="191">Default</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#FFFFFF" x="191.5" y="130.5" width="139" height="39" rx="3"></rect>
+                <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="232.861328" y="154">A Button</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#FF5722" x="372.5" y="130.5" width="139" height="39" rx="3"></rect>
+                <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FF5722">
+                    <tspan x="413.861328" y="154">A Button</tspan>
+                </text>
+                <text id="Color:-Orange" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="388" y="191">Color: Orange</tspan>
+                </text>
+                <g id="Group-17" transform="translate(191.000000, 0.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#DBDBDB" stroke-width="1" x="0.5" y="0.5" width="139" height="39" rx="2"></rect>
+                    </g>
+                    <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#555555">
+                        <tspan x="42.8613281" y="24">A Button</tspan>
+                    </text>
+                </g>
+                <text id="Default" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="239.119141" y="64">Default</tspan>
+                </text>
+                <text id="SOLID" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="0" y="35">SOLID</tspan>
+                </text>
+                <g id="Group-17" transform="translate(372.000000, 0.000000)">
+                    <rect id="Rectangle-2" fill="#FF5722" x="0" y="0" width="140" height="40" rx="2"></rect>
+                    <text id="A-Button" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FAFAFA">
+                        <tspan x="41.8613281" y="24">A Button</tspan>
+                    </text>
+                </g>
+                <text id="Color:-Orange" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="388" y="64">Color: Orange</tspan>
+                </text>
+                <text id="Default" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="246.119141" y="318">Default</tspan>
+                </text>
+                <g id="Group-14" transform="translate(198.000000, 254.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="140" height="40" rx="2"></rect>
+                    <text id="CANCEL" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#555555">
+                        <tspan x="44.4868164" y="24">CANCEL</tspan>
+                    </text>
+                </g>
+                <text id="FRAMELESS" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="0" y="289">FRAMELESS</tspan>
+                </text>
+                <g id="Group-14" transform="translate(379.000000, 254.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="140" height="40" rx="2"></rect>
+                    <text id="CANCEL" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FF5722">
+                        <tspan x="44.4868164" y="24">CANCEL</tspan>
+                    </text>
+                </g>
+                <text id="Color:-Orange" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                    <tspan x="410" y="318">Color: Orange</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

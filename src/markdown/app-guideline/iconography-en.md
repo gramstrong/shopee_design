@@ -15,7 +15,7 @@
 				<h6>Home page</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-homePage.png" alt="icons of home page image">
+				<img src="/static/image/guideline-app/app-icon-homePage.svg" alt="icons of home page image">
 			</div>
 		</div>
 		<div class="row">
@@ -23,7 +23,7 @@
 				<h6>Product Detail page</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-productDetailPage.png" alt="icons of product detail page image">
+				<img src="/static/image/guideline-app/app-icon-productDetailPage.svg" alt="icons of product detail page image">
 			</div>
 		</div>
 		<div class="row">
@@ -32,7 +32,7 @@
 				<p>Font: R10, #717382</p>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-buttonNavInactive.png" alt="icons of button navigation bar inactive state image">
+				<img src="/static/image/guideline-app/app-icon-buttonNavInactive.svg" alt="icons of button navigation bar inactive state image">
 			</div>
 		</div>
 		<div class="row">
@@ -41,7 +41,7 @@
 				<p>Font: R10, #primary (#FF5622)</p>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-buttonNavActive.png" alt="icons of button navigation bar active state image">
+				<img src="/static/image/guideline-app/app-icon-buttonNavActive.svg" alt="icons of button navigation bar active state image">
 			</div>
 		</div>
 		<hr>
@@ -53,7 +53,7 @@
 				<h6>Top navigation bar</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-topNavBar.png" alt="icons of Top navigation bar image">
+				<img src="/static/image/guideline-app/app-icon-topNavBar.svg" alt="icons of Top navigation bar image">
 			</div>
 		</div>
 		<div class="row">
@@ -61,7 +61,7 @@
 				<h6>Chats</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-chats-28.png" alt="icons of chats">
+				<img src="/static/image/guideline-app/app-icon-chats-28.svg" alt="icons of chats">
 			</div>
 		</div>
 		<hr>
@@ -71,7 +71,7 @@
 				<h6>My Account</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-myAccount.png" alt="icons of my account">
+				<img src="/static/image/guideline-app/app-icon-myAccount.svg" alt="icons of my account">
 			</div>
 		</div>
 		<div class="row">
@@ -79,7 +79,7 @@
 				<h6>My page - order related</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-mePage-orderRelated.png" alt="icons of my page - order related">
+				<img src="/static/image/guideline-app/app-icon-mePage-orderRelated.svg" alt="icons of my page - order related">
 			</div>
 		</div>
 		<hr>
@@ -91,7 +91,7 @@
 				<h6>Friend page</h6>
 			</div>
 			<div class="col-xs-5">
-				<img src="/static/image/guideline-app/app-icon-friendPage.png" alt="icons of friend page">
+				<img src="/static/image/guideline-app/app-icon-friendPage.svg" alt="icons of friend page">
 			</div>
 		</div>
 		<hr>

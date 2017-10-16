@@ -10,7 +10,7 @@
 				<p>Border: 2px, #FFFFFF</p>
 			</div>
 			<div class="col-xs-3">
-				<img src="/static/image/guideline-app/app-image-60.png" alt="">
+				<img src="/static/image/guideline-app/app-image-60.svg" alt="">
 			</div>
 		</div>
 		<hr>
@@ -23,7 +23,7 @@
 				<p>Border: 1px, #black9</p>
 			</div>
 			<div class="col-xs-3">
-				<img src="/static/image/guideline-app/app-image-40.png" alt="">
+				<img src="/static/image/guideline-app/app-image-40.svg" alt="">
 			</div>
 		</div>
 		<hr>
@@ -35,7 +35,7 @@
 				<p>Size: 24px x 24px</p>
 			</div>
 			<div class="col-xs-3">
-				<img src="/static/image/guideline-app/app-image-24.png" alt="">
+				<img src="/static/image/guideline-app/app-image-24.svg" alt="">
 			</div>
 		</div>
 		<hr>
@@ -47,7 +47,7 @@
 				<p>Size: 50px x 50px</p>
 			</div>
 			<div class="col-xs-3">
-				<img src="/static/image/guideline-app/app-image-50.png" alt="">
+				<img src="/static/image/guideline-app/app-image-50.svg" alt="">
 			</div>
 		</div>
 		<hr>
@@ -59,7 +59,7 @@
 				<p>Size: 68px x 68px</p>
 			</div>
 			<div class="col-xs-3">
-				<img src="/static/image/guideline-app/app-image-68.png" alt="">
+				<img src="/static/image/guideline-app/app-image-68.svg" alt="">
 			</div>
 		</div>
 	</div>

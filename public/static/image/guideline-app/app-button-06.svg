@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="47px" viewBox="0 0 107 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 60</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="11" y="30" width="59" height="20" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1001.000000, -11102.000000)">
+            <g id="Group-60" transform="translate(1000.000000, 11099.000000)">
+                <g id="Group-10">
+                    <g id="Group-7">
+                        <g id="Rectangle-49">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#FF5722" stroke-width="0.5" x="11.25" y="30.25" width="58.5" height="19.5" rx="2"></rect>
+                        </g>
+                        <g id="RIGHT#3D4B02D7-6795-444E-8144-6C3DA5F87DD5#7CA4D8D3-793A-40F5-B0E3-36542A3C3899" transform="translate(48.500000, 0.000000)" fill="#FF5722">
+                            <rect id="ruler-start" x="11" y="24" width="1" height="5"></rect>
+                            <rect id="ruler-end" x="20" y="24" width="1" height="5"></rect>
+                            <rect id="ruler-line" x="11" y="26" width="10" height="1"></rect>
+                            <text id="10px" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal">
+                                <tspan x="0" y="13">10px</tspan>
+                            </text>
+                        </g>
+                        <g id="LEFT#3D4B02D7-6795-444E-8144-6C3DA5F87DD5#7CA4D8D3-793A-40F5-B0E3-36542A3C3899" transform="translate(0.500000, 0.000000)" fill="#FF5722">
+                            <rect id="ruler-start" x="11" y="24" width="1" height="5"></rect>
+                            <rect id="ruler-end" x="20" y="24" width="1" height="5"></rect>
+                            <rect id="ruler-line" x="11" y="26" width="10" height="1"></rect>
+                            <text id="10px" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal">
+                                <tspan x="0" y="13">10px</tspan>
+                            </text>
+                        </g>
+                        <text id="Updated" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#FF5722">
+                            <tspan x="21" y="44">Updated</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-97" transform="translate(72.000000, 30.000000)" fill="#FF5722">
+                    <path d="M3,1 L5,1 L5,0 L0,0 L0,1 L2,1 L2,19 L0,19 L0,20 L5,20 L5,19 L3,19 L3,1 Z" id="Combined-Shape"></path>
+                    <text id="20px" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
+                        <tspan x="9.162" y="14">20px</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

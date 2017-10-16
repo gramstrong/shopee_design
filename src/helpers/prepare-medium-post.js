@@ -6,7 +6,7 @@ const prepareMediumPost = ({ link, description, author, title }) => {
   const srcEnd = description.substring(srcStart).indexOf('"') + srcStart;
   const img = description.substring(srcStart, srcEnd);
 
-  let yourString = description.replace(/<figure[^>]*>/g, "");
+  let yourString = description.replace(/<\/?figure[^>]*>/g, "");
   yourString = yourString.replace(/<img[^>]*>/g, "");
   yourString = yourString.replace(/<hr>/g, "");
   yourString = yourString.replace(/<strong[^>]*>/g, "");

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="37px" viewBox="0 0 396 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="351" height="36" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-809.000000, -10425.000000)">
+            <g id="Group-32" transform="translate(809.000000, 10425.000000)">
+                <g id="btn_2" transform="translate(0.000000, 1.000000)">
+                    <g id="Rectangle-13">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#FF5722" stroke-width="1" x="0.5" y="0.5" width="350" height="35" rx="2"></rect>
+                    </g>
+                    <text id="BUTTON" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#FF5722">
+                        <tspan x="147" y="23">BUTTON</tspan>
+                    </text>
+                </g>
+                <g id="Group-98" transform="translate(356.000000, 0.000000)" fill="#FF5722">
+                    <g id="HEIGHT#B6823553-245F-4B15-839F-1B0B6987CD7A" transform="translate(0.000000, 0.714286)">
+                        <path d="M3,1 L5,1 L5,0 L0,0 L0,1 L2,1 L2,35 L0,35 L0,36 L5,36 L5,35 L3,35 L3,1 Z" id="Combined-Shape"></path>
+                        <text id="label-text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
+                            <tspan x="13.162" y="22">36px</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

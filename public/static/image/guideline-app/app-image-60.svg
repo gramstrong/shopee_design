@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="85px" viewBox="0 0 100 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="31" cy="55" r="30"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1170.000000, -8610.000000)">
+            <g id="Group" transform="translate(1170.000000, 8609.000000)">
+                <g id="Oval-10">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#FFFFFF" stroke-width="2" cx="31" cy="55" r="29"></circle>
+                </g>
+                <g id="WIDTH#EDC49125-F61A-4593-977B-6FC9727EAE13">
+                    <rect id="ruler-start" fill="#FF5500" x="0" y="16" width="1" height="5"></rect>
+                    <rect id="ruler-end" fill="#FF5500" x="59" y="16" width="1" height="5"></rect>
+                    <rect id="ruler-line" fill="#FF5500" x="0" y="18" width="60" height="1"></rect>
+                    <text id="label-text" font-family="SFUIText-Regular, SF UI Text" font-size="12" font-weight="normal" fill="#FF5722">
+                        <tspan x="15.2353516" y="11">60px</tspan>
+                    </text>
+                </g>
+                <g id="Group-79" transform="translate(64.000000, 26.000000)">
+                    <rect id="ruler-start" fill="#FF5500" x="0" y="0" width="5" height="1"></rect>
+                    <rect id="ruler-end" fill="#FF5500" x="0" y="59" width="5" height="1"></rect>
+                    <rect id="ruler-line" fill="#FF5500" x="2" y="0" width="1" height="60"></rect>
+                    <text id="label-text" font-family="SFUIText-Regular, SF UI Text" font-size="12" font-weight="normal" fill="#FF5722">
+                        <tspan x="7.23535156" y="33">60px</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

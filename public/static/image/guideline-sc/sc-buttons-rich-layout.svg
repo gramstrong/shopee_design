@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="157px" viewBox="0 0 320 157" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 34</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="9.63823529" height="9.63823529" x="54.3617647" y="-0.638235294" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-2" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+        <pattern id="pattern-3" width="9.63823529" height="9.63823529" x="54.3617647" y="22.3617647" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-4" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170711-V0.9.2" transform="translate(-800.000000, -5455.000000)">
+            <g id="Group-34" transform="translate(800.000000, 5455.000000)">
+                <rect id="Rectangle-5" fill-opacity="0.02" fill="#000000" x="0" y="0" width="320" height="157"></rect>
+                <g id="Group-69" transform="translate(59.000000, 47.000000)">
+                    <g id="Group-67">
+                        <g id="Group-66" transform="translate(1.000000, 0.000000)">
+                            <rect id="Rectangle-2" fill-opacity="0.05" fill="#000000" x="0" y="0" width="200" height="56"></rect>
+                            <rect id="overlay" fill-opacity="0.3" fill="#FF5500" x="24" y="16" width="24" height="24"></rect>
+                            <g id="HORIZONTAL#7B7A18DB-E13B-4787-858B-FAF134D024D0#4C85151A-B952-4B32-985B-ECF5BF1F0DE1" transform="translate(42.000000, 24.000000)" fill="#656AD2">
+                                <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                                <rect id="ruler-end" x="21" y="0" width="1" height="5"></rect>
+                                <rect id="ruler-line" x="6" y="2" width="16" height="1"></rect>
+                                <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                                    <tspan x="0.465820312" y="16">16px</tspan>
+                                </text>
+                            </g>
+                            <rect id="overlay" fill-opacity="0.3" fill="url(#pattern-1)" x="64" y="9" width="56" height="21"></rect>
+                            <rect id="overlay" fill-opacity="0.3" fill="url(#pattern-3)" x="64" y="32" width="114" height="16"></rect>
+                        </g>
+                        <g id="LEFT#4E30AFFE-DCD3-4BAA-B479-BBEEE97F9E11#DFD68789-6A07-4293-8D92-D56F5678A116" transform="translate(0.000000, 24.000000)" fill="#656AD2">
+                            <rect id="ruler-start" x="1" y="0" width="1" height="5"></rect>
+                            <rect id="ruler-end" x="24" y="0" width="1" height="5"></rect>
+                            <rect id="ruler-line" x="1" y="2" width="24" height="1"></rect>
+                            <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                                <tspan x="0.465820312" y="16">24px</tspan>
+                            </text>
+                        </g>
+                        <g id="LEFT#4E30AFFE-DCD3-4BAA-B479-BBEEE97F9E11#DFD68789-6A07-4293-8D92-D56F5678A116" transform="translate(176.000000, 24.000000)" fill="#656AD2">
+                            <rect id="ruler-start" x="1" y="0" width="1" height="5"></rect>
+                            <rect id="ruler-end" x="24" y="0" width="1" height="5"></rect>
+                            <rect id="ruler-line" x="1" y="2" width="24" height="1"></rect>
+                            <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                                <tspan x="0.465820312" y="16">24px</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="SVG-Icon-+-Text" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="43" y="90">SVG Icon + Text</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

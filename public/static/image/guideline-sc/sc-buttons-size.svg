@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="535px" height="273px" viewBox="0 0 535 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 76</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="9.63823529" height="9.63823529" x="223.361765" y="6.36176471" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-2" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+        <pattern id="pattern-3" width="9.63823529" height="9.63823529" x="-1.63823529" y="-5.63823529" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-4" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+        <pattern id="pattern-5" width="9.63823529" height="9.63823529" x="15.3617647" y="0.361764706" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-6" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-6" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+        <pattern id="pattern-7" width="9.63823529" height="9.63823529" x="9.36176471" y="0.361764706" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-8" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-8" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+        <pattern id="pattern-9" width="9.63823529" height="9.63823529" x="37.3617647" y="0.361764706" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-10" transform="scale(0.200796569,0.200796569)"></use>
+        </pattern>
+        <image id="image-10" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAACzSURBVGgF7ZhBCsMwDATjvsb/f41/09LjHsWQbQOTm8CS4hkLjNfe+30NvnPOGiy/7q7/mvzMP651A7+2ogENQAIeIQgQp2sAI4QFHm9gdK/5wrr7bjOt/3gDbgDOIE7XAEYIC2gAAsTpGsAIYQENQIA4fU3vHr4LYeZZwBlIHv1IA33m2VEDyaMfaaDPPDtqIHn0I9+F+syzozOQPPqRBvrMs6MGkkc/0kCfeXbUQPLoRx+YOxtLtn0wiAAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170711-V0.9.2" transform="translate(-795.000000, -709.000000)">
+            <g id="Group-76" transform="translate(791.000000, 709.000000)">
+                <g id="Group-54" transform="translate(9.000000, 0.000000)">
+                    <rect id="Rectangle-2" fill-opacity="0.05" fill="#000000" x="217" y="10" width="92" height="32"></rect>
+                    <g id="LEFT#403BD504-943E-4529-8AB0-6327F4C87350#64B65FF6-9E32-4B14-8421-48833EC15D53" transform="translate(211.000000, 23.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="21" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="6" y="2" width="16" height="1"></rect>
+                        <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.465820312" y="17">16px</tspan>
+                        </text>
+                    </g>
+                    <g id="LEFT#403BD504-943E-4529-8AB0-6327F4C87350#64B65FF6-9E32-4B14-8421-48833EC15D53" transform="translate(287.000000, 23.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="21" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="6" y="2" width="16" height="1"></rect>
+                        <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.465820312" y="17">16px</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="url(#pattern-1)" x="233" y="16" width="60" height="20"></rect>
+                    <text id="32px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#656AD2">
+                        <tspan x="331.46582" y="27">32px</tspan>
+                    </text>
+                    <g id="primary_btn_md" transform="translate(413.000000, 12.000000)">
+                        <g id="Group-19">
+                            <rect id="Rectangle-1" fill-opacity="0.05" fill="#000000" x="0" y="0" width="64" height="24"></rect>
+                            <rect id="Rectangle-3" fill-opacity="0.3" fill="url(#pattern-3)" x="8" y="4" width="48" height="16"></rect>
+                        </g>
+                    </g>
+                    <text id="24px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#656AD2">
+                        <tspan x="504.46582" y="27">24px</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill-opacity="0.05" fill="#000000" x="1" y="0" width="108" height="40"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="url(#pattern-5)" x="25" y="10" width="60" height="20"></rect>
+                    <text id="Large" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="33" y="60">Large</tspan>
+                    </text>
+                    <text id="Default" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="234" y="60">Default</tspan>
+                    </text>
+                    <text id="Small" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="419" y="60">Small</tspan>
+                    </text>
+                    <g id="Group-2" transform="translate(117.000000, 0.000000)" fill="#656AD2">
+                        <text id="40px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="7.46582031" y="21">40px</tspan>
+                        </text>
+                        <g id="HEIGHT#D765B8EF-38CE-4272-A31B-90ED930AC9E2">
+                            <rect id="ruler-start" x="0" y="0" width="5" height="1"></rect>
+                            <rect id="ruler-end" x="0" y="39" width="5" height="1"></rect>
+                            <rect id="ruler-line" x="2" y="0" width="1" height="40"></rect>
+                        </g>
+                    </g>
+                    <g id="HEIGHT#2C86A181-D0BD-4D76-BEED-A447E175CD9D" transform="translate(325.000000, 10.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="0" y="0" width="5" height="1"></rect>
+                        <rect id="ruler-end" x="0" y="31" width="5" height="1"></rect>
+                        <rect id="ruler-line" x="2" y="0" width="1" height="32"></rect>
+                    </g>
+                    <g id="HEIGHT#D3EACF79-32E4-4FD0-ADD9-D00BF82B7ADC" transform="translate(494.000000, 12.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="0" y="0" width="5" height="1"></rect>
+                        <rect id="ruler-end" x="0" y="23" width="5" height="1"></rect>
+                        <rect id="ruler-line" x="2" y="0" width="1" height="24"></rect>
+                    </g>
+                    <g id="RIGHT#5017BC86-8DC3-47EA-9F25-281CEE854B5D#798DCEC3-BC77-4B19-BAA5-E5FFA5258A0B" transform="translate(84.000000, 17.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="1" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="24" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="1" y="2" width="24" height="1"></rect>
+                        <text id="24px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.465820312" y="19">24px</tspan>
+                        </text>
+                    </g>
+                    <g id="LEFT#5017BC86-8DC3-47EA-9F25-281CEE854B5D#798DCEC3-BC77-4B19-BAA5-E5FFA5258A0B" transform="translate(0.000000, 17.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="1" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="24" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="1" y="2" width="24" height="1"></rect>
+                        <text id="24px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.465820312" y="19">24px</tspan>
+                        </text>
+                    </g>
+                    <g id="RIGHT#403BD504-943E-4529-8AB0-6327F4C87350#64B65FF6-9E32-4B14-8421-48833EC15D53" transform="translate(463.000000, 21.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="13" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="6" y="2" width="8" height="1"></rect>
+                        <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.334960938" y="18">8px</tspan>
+                        </text>
+                    </g>
+                    <g id="RIGHT#403BD504-943E-4529-8AB0-6327F4C87350#64B65FF6-9E32-4B14-8421-48833EC15D53" transform="translate(407.000000, 21.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="13" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="6" y="2" width="8" height="1"></rect>
+                        <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.334960938" y="18">8px</tspan>
+                        </text>
+                    </g>
+                    <rect id="Rectangle" x="413" y="16" width="8" height="16"></rect>
+                </g>
+                <g id="Group-4" transform="translate(0.000000, 90.000000)">
+                    <rect id="Rectangle-2" fill-opacity="0.05" fill="#000000" x="9" y="0" width="90" height="40"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="url(#pattern-7)" x="19" y="10" width="70" height="20"></rect>
+                    <g id="RIGHT#A42467D6-23A7-4B15-AFE7-3C6D4EBFE1F8#9E28A0DF-641B-4927-9EE0-B18A83A61465" transform="translate(83.000000, 20.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="6" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="15" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="6" y="2" width="10" height="1"></rect>
+                        <text id="8px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="0.834960938" y="15">8px</tspan>
+                        </text>
+                    </g>
+                    <g id="LEFT#A42467D6-23A7-4B15-AFE7-3C6D4EBFE1F8#9E28A0DF-641B-4927-9EE0-B18A83A61465" transform="translate(0.000000, 20.000000)" fill="#656AD2">
+                        <rect id="ruler-start" x="9" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" x="18" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" x="9" y="2" width="10" height="1"></rect>
+                        <text id="8px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                            <tspan x="3.83496094" y="15">8px</tspan>
+                        </text>
+                    </g>
+                    <text id="COMPACT" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="22" y="60">COMPACT</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(9.000000, 185.000000)">
+                    <g id="Group-4" transform="translate(0.000000, 27.000000)">
+                        <rect id="Rectangle-2" fill-opacity="0.05" fill="#000000" x="0" y="0" width="165" height="40"></rect>
+                        <rect id="Rectangle-3" fill-opacity="0.3" fill="url(#pattern-9)" x="47" y="10" width="70" height="20"></rect>
+                        <text id="FULL-WIDTH" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#888888">
+                            <tspan x="41" y="60">FULL WIDTH</tspan>
+                        </text>
+                    </g>
+                    <text id="100%-of-parent-width" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#656AD2">
+                        <tspan x="26.8701172" y="11">100% of parent width</tspan>
+                    </text>
+                    <g id="WIDTH#725CF900-FD52-481F-ADBA-D1FBA0D08A15" transform="translate(0.000000, 19.000000)">
+                        <rect id="ruler-start" fill-opacity="0.2" fill="#000000" x="0" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-end" fill-opacity="0.2" fill="#000000" x="164" y="0" width="1" height="5"></rect>
+                        <rect id="ruler-line" fill="#656AD2" x="0" y="2" width="165" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

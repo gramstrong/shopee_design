@@ -69,6 +69,7 @@ h6 {
 			>td {
 				padding: 24px 16px;
 				vertical-align: middle;
+				font-weight: 300;
 			}
 		}
 	}
@@ -689,10 +690,7 @@ input:focus {
 //guide-sc start
 
 .alpha {
-	background: url("/static/image/guideline-sc/alpha-background.png");
-	height: 32px;
-	width: 32px;
-	@include border-radius(50%);
+	background: url("/static/image/guideline-sc/alpha-bg.svg");
 }
 
 .color-circle-32{
@@ -701,12 +699,22 @@ input:focus {
 	@include border-radius(50%);
 }
 
-.color-square-80{
-	height: 80px;
-	width: 80px;
+.color-square-90{
+	height: 90px;
+	width: 90px;
 	display: inline-block;
 	margin-right: 5px;
 	@include border-radius(4px);
+}
+.pantone{
+	display: inline-block;
+	text-align: center;
+	h6{
+		margin: 5px 0 0;
+	}
+	.small{
+		font-size: 10px;
+	}
 }
 
 //guide-sc end

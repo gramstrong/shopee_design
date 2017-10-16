@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="36px" viewBox="0 0 396 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-809.000000, -10785.000000)">
+            <g id="Group-11" transform="translate(809.000000, 10785.000000)">
+                <g id="btn_3">
+                    <rect id="Rectangle-13" fill-opacity="0.26" fill="#000000" x="0" y="0" width="351" height="36" rx="2"></rect>
+                    <text id="BUTTON" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="147" y="23">BUTTON</tspan>
+                    </text>
+                </g>
+                <g id="HEIGHT#B6823553-245F-4B15-839F-1B0B6987CD7A" transform="translate(356.000000, 0.000000)" fill="#FF5722">
+                    <rect id="ruler-start" x="0" y="0" width="5" height="1"></rect>
+                    <rect id="ruler-end" x="0" y="35" width="5" height="1"></rect>
+                    <rect id="ruler-line" x="2" y="0" width="1" height="36"></rect>
+                    <text id="label-text" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
+                        <tspan x="13.162" y="22">36px</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -8,7 +8,7 @@
         <p>Font: R14, #black87</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-01.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-01.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -19,7 +19,7 @@
         <p>Font: R14, #primary</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-02.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-02.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -29,7 +29,7 @@
         <p>Font: $14, #FFFFFF</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-03.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-03.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -39,7 +39,7 @@
         <p>Font: R14, #FFFFFF</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-04.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-04.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -49,7 +49,7 @@
         <p>Font: R10, #FFFFFF</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-05.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-05.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -60,7 +60,7 @@
         <p>Font: R10, #primary</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-06.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-06.svg" alt="button demo">
       </div>
     </div>
     <hr>
@@ -71,7 +71,7 @@
         <p>Distance: 10px</p>
       </div>
       <div class="col-xs-5">
-        <img src="/static/image/guideline-app/app-button-07.png" alt="button demo">
+        <img src="/static/image/guideline-app/app-button-07.svg" alt="button demo">
       </div>
     </div>
   </div>
