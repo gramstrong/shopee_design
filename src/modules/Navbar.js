@@ -69,7 +69,7 @@ class Navbar extends PureComponent {
                 </li>
                 <li>
                   <DropdownButton className="nav-item" title="Product" id="product-dropdown">
-                    <MenuItem href="" className="disabled">Seller Center Guideline</MenuItem>
+                    <MenuItem href="/product/sc-guideline">Seller Center Guideline</MenuItem>
                     <MenuItem href="" className="disabled">PC Mall Guideline</MenuItem>
                     <MenuItem href="/product/app-guideline">Mobile App Guideline</MenuItem>
                   </DropdownButton>

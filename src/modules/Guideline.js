@@ -219,7 +219,7 @@ class Guideline extends PureComponent {
             />
             <div className="footer">
               <div className="container-fluid">
-                &copy; Shopee Design 2017 v0.0.4{" "}
+                &copy; Shopee Design 2017 v0.0.6{" "}
                 <span className="footer-tag">
                   {" "}
                   Designed and built by Shopee Design Team
