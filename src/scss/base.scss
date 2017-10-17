@@ -91,6 +91,9 @@ a {
 	&:focus {
 		text-decoration: inherit;
 	}
+	&.text-link{
+		text-decoration: underline;
+	}
 }
 
 .container {

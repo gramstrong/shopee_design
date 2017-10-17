@@ -981,6 +981,41 @@
           </div>
         </div>
         <!-- End -->
+        <hr>
+        <h3>Usage and Convertions</h3>
+        <div class="row">
+          <div class="col-xs-12">
+            <p>The use and addition of color should follow the rules of "if necessary, do not increase the entity". Designers
+              must consider:
+            </p>
+            <h6>Q: Has the already specified palette been able to meet the demand?</h6>
+            <p>A: If so, please avoid adding unnecessary colors to the interface.</p>
+            <p>If no, please think:</p>
+            <p>Q: Is the new color associated with the usual business? Is it necessary to carry out the precipitation in accordance
+              with the requirements of the 10th order palette?</p>
+            <p>A: If so, you can add this color to the swatches and give them a meaningful name for their different
+              <a href="https://goo.gl/hVVQL4" class="text-link">hue Generating tools</a>.</p>
+            <p>If not, the new color can be regarded as a special color, in the delivery process of the color of the color can
+              be accurately marked.</p>
+          </div>
+        </div>
+        <hr>
+        <h3>The how of color specs</h3>
+        <div class="row">
+          <div class="col-md-12">
+            <p>In the design delivery process, please follow the following rules for color labeling:</p>
+            <p>If the color exists in the standard swatch, use the name in the swatch. If the color to bring transparency, then
+              in the name after the filling "Alpha 0.XX" words.</p>
+            <p>If the color does not exist in the standard swatch, follow the rules shown in the previous section to consider
+              if there is a new color to store. If the color can be stored, please use the "#Hex" or "#Hex + Alpha 0.XX"
+              if the color is not necessary for storage. Format the color can be marked.</p>
+            <p class="hint">The case can be found in the figure below. Note that the following figure in the label format on the left to
+              add a circular color block, where non-mandatory content, you can join or delete.</p>
+          </div>
+          <div class="col-md-12">
+            <img src="/static/image/guideline-sc/sc-color-spec.svg" alt="">
+          </div>
+        </div>
       </div>
     </div>
   </div>

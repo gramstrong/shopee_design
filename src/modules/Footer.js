@@ -4,7 +4,7 @@ const Footer = () => (
   <div className="footer">
     <div className="container">
       <div className="col-md-12">
-        &copy; Shopee Design 2017 v0.0.5{" "}
+        &copy; Shopee Design 2017 v0.0.6{" "}
         <span className="footer-tag">
           {" "}
           Designed and built by Shopee Design Team

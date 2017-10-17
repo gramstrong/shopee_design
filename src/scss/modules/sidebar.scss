@@ -51,10 +51,10 @@
 	transition: height 0.3s ease-in-out;
 	overflow: hidden;
 }
-.link {
-	padding-left: 40px;
-	width: 100%;
-	display: block;
-	//Instead of the line below you could use @include box-sizing($bs)
-	box-sizing: border-box;
+.sidebar{
+	.link {
+		padding-left: 40px;
+		width: 100%;
+		display: block;
+	}
 }
