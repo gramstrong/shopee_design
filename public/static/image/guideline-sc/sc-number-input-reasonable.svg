@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="332px" viewBox="0 0 900 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="261" height="170" rx="3"></rect>
+        <filter x="-8.8%" y="-13.5%" width="119.2%" height="129.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="100" height="32" rx="2"></rect>
+        <rect id="path-4" x="0" y="0" width="261" height="170" rx="3"></rect>
+        <filter x="-8.8%" y="-13.5%" width="119.2%" height="129.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="100" height="32" rx="2"></rect>
+        <path d="M0,0 L0,12 L3.375,9 L6.1875,14 L7.3125,14 C7.3125,14 8.03886775,13.3495845 7.875,13 C7.10136777,11.3495845 5.0625,8 5.0625,8 L9,8 L0,0 Z" id="path-7"></path>
+        <filter x="-66.7%" y="-35.7%" width="233.3%" height="185.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v1.0.0" transform="translate(-770.000000, -1774.000000)">
+            <g id="Group-23" transform="translate(770.000000, 1774.000000)">
+                <g id="Group-6">
+                    <rect id="Rectangle-2-Copy" fill="#FAFAFA" x="0" y="0" width="900" height="273"></rect>
+                    <text id="Case:-In-the-keyword" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                        <tspan x="0" y="307">Case: In the keyword ad, set the default value for the "cost per click" (ie, the recommended price) to make it easier for the user to apply </tspan>
+                        <tspan x="0" y="328">or adjust on this basis.</tspan>
+                    </text>
+                </g>
+                <g id="Group-18" transform="translate(126.000000, 52.000000)">
+                    <g id="keyword-decored">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-2" transform="translate(89.000000, 124.000000)">
+                            <g id="btn/primary" transform="translate(82.000000, 0.000000)">
+                                <rect id="Combined-Shape" fill="#FF5722" x="0" y="0" width="74" height="30" rx="2"></rect>
+                                <text id="批次動作" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="23.2126437" y="20">確認</tspan>
+                                </text>
+                            </g>
+                            <g id="btn/secondary" font-size="14" font-family="PingFangSC-Medium, PingFang SC" fill="#666666" font-weight="400">
+                                <text id="取消發布">
+                                    <tspan x="23" y="20">取消</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="price-edit-v2/0" transform="translate(116.000000, 53.000000)">
+                            <g id="Mask">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="99" height="31" rx="2"></rect>
+                            </g>
+                            <text id="$" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="14" fill="#BABABA">
+                                <tspan x="12" y="22">$</tspan>
+                            </text>
+                            <text id="15" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="14" fill="#333333">
+                                <tspan x="26" y="22">15</tspan>
+                            </text>
+                        </g>
+                        <text id="每次點擊扣費：" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#404040">
+                            <tspan x="16" y="73">每次點擊扣費：</tspan>
+                        </text>
+                        <text id="蝦皮推薦價格為：$15" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#8C8C8C">
+                            <tspan x="16" y="103">蝦皮推薦價格為：</tspan>
+                            <tspan x="112" y="103" font-family="Roboto-Regular, Roboto">$15</tspan>
+                        </text>
+                        <text id="唇部彩妝、保養" font-family="PingFangTC-Medium, PingFang TC" font-size="16" font-weight="400" fill="#404040">
+                            <tspan x="16" y="33">唇部彩妝、保養</tspan>
+                        </text>
+                    </g>
+                    <g id="keyword-decored" transform="translate(388.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Group-2" transform="translate(89.000000, 124.000000)">
+                            <g id="btn/primary" transform="translate(82.000000, 0.000000)">
+                                <rect id="Combined-Shape" fill="#FF5722" x="0" y="0" width="74" height="30" rx="2"></rect>
+                                <text id="批次動作" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="23.2126437" y="20">確認</tspan>
+                                </text>
+                            </g>
+                            <g id="btn/secondary" font-size="14" font-family="PingFangSC-Medium, PingFang SC" fill="#666666" font-weight="400">
+                                <text id="取消發布">
+                                    <tspan x="23" y="20">取消</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="price-edit-v2/0" transform="translate(116.000000, 53.000000)">
+                            <g id="Mask">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                <rect stroke="#BBBBBB" stroke-width="1" x="0.5" y="0.5" width="99" height="31" rx="2"></rect>
+                            </g>
+                            <g id="Group-2" transform="translate(88.000000, 16.500000) scale(1, -1) translate(-88.000000, -16.500000) translate(83.000000, 6.000000)">
+                                <path d="M5.35355339,0.853553391 L9,4.5 L1,4.5 L4.64644661,0.853553391 L4.64644661,0.853553391 C4.84170876,0.658291245 5.15829124,0.658291245 5.35355339,0.853553391 Z" id="Triangle" fill="#888888"></path>
+                                <path d="M5.35355339,15.6464466 L10,20.2928932 L0,20.2928932 L4.64644661,15.6464466 L4.64644661,15.6464466 C4.84170876,15.4511845 5.15829124,15.4511845 5.35355339,15.6464466 Z" id="Triangle" fill="#555555" transform="translate(5.000000, 17.896447) scale(1, -1) translate(-5.000000, -17.896447) "></path>
+                            </g>
+                            <text id="$" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="14" fill="#BABABA">
+                                <tspan x="12" y="22">$</tspan>
+                            </text>
+                            <text id="15.1" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="14" fill="#333333">
+                                <tspan x="28" y="22">15.1</tspan>
+                            </text>
+                        </g>
+                        <g id="hd-regular" transform="translate(212.000000, 64.000000)">
+                            <g id="Default">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                <path stroke="#FFFFFF" stroke-width="1" d="M5.9460907,8.5 C5.95642733,8.51736045 5.96687946,8.53492334 5.9774444,8.55268453 C6.34289215,9.16705514 6.70837848,9.79268326 7.04979825,10.3927984 C7.13785224,10.5478246 7.13785224,10.5478246 7.22562581,10.7034481 C7.7056538,11.556155 8.08281912,12.2653076 8.32772947,12.7877831 C8.4576257,13.064895 8.40615195,13.3453845 8.25553159,13.6273965 C8.18664122,13.7563824 8.09668678,13.8840432 7.99021818,14.0120662 C7.86208243,14.1661428 7.73604623,14.2918983 7.64604194,14.3724913 L7.50364342,14.5 L5.89507626,14.5 L3.24341739,9.78593979 L-0.5,13.1134219 L-0.5,-1.11342192 L10.3150997,8.5 L5.94609079,8.5 Z"></path>
+                            </g>
+                        </g>
+                        <text id="每次點擊扣費：" font-family="PingFangTC-Regular, PingFang TC" font-size="14" font-weight="normal" fill="#404040">
+                            <tspan x="16" y="73">每次點擊扣費：</tspan>
+                        </text>
+                        <text id="蝦皮推薦價格為：-$15" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#8C8C8C">
+                            <tspan x="16" y="103">蝦皮推薦價格為：</tspan>
+                            <tspan x="112" y="103" font-family="Roboto-Regular, Roboto"> $15</tspan>
+                        </text>
+                        <text id="唇部彩妝、保養" font-family="PingFangTC-Medium, PingFang TC" font-size="16" font-weight="400" fill="#404040">
+                            <tspan x="16" y="33">唇部彩妝、保養</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

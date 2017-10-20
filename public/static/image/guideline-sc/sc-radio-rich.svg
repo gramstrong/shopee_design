@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="706px" height="140px" viewBox="0 0 706 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 65</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9" cy="9" r="4"></circle>
+        <filter x="-50.0%" y="-25.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="18" height="18" rx="9"></rect>
+        <filter x="-5.6%" y="-5.6%" width="111.1%" height="111.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="History" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V0.9.1" transform="translate(-796.000000, -696.000000)">
+            <g id="Group-6" transform="translate(106.000000, 696.000000)">
+                <g id="Group-65" transform="translate(690.000000, 0.000000)">
+                    <rect id="Rectangle-3" fill="#FAFAFA" x="0" y="0" width="706" height="140"></rect>
+                    <g id="Group-55" transform="translate(40.000000, 21.000000)">
+                        <g id="Group-35">
+                            <text id="Cinderella" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.8" fill="#000000">
+                                <tspan x="26" y="28">Cinderella</tspan>
+                            </text>
+                            <text id="Cinderella-is-a-folk" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                                <tspan x="26" y="49">Cinderella is a folk tale embodying a myth-</tspan>
+                                <tspan x="26" y="67">element of unjust oppression/triumphant </tspan>
+                                <tspan x="26" y="85">reward. </tspan>
+                            </text>
+                            <path d="M25.5,0.495414933 L25.5,109.547357" id="Line" stroke="#DBDBDB" stroke-linecap="square" stroke-dasharray="2,3"></path>
+                            <rect id="overlay" fill-opacity="0.3" fill="#FF5500" x="25" y="34" width="232" height="4"></rect>
+                            <g id="Group-9" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-90" fill="#FF5722" x="0" y="0" width="18" height="18" rx="9"></rect>
+                                <g id="Oval-2">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                            <text id="Belle" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.8" fill="#000000">
+                                <tspan x="346" y="28">Belle</tspan>
+                            </text>
+                            <text id="Belle-is-a-fictional" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                                <tspan x="346" y="49">Belle is a fictional character who appears in </tspan>
+                                <tspan x="346" y="67">Walt Disney Pictures' 30th animated feature </tspan>
+                                <tspan x="346" y="85">film Beauty and the Beast (1991).</tspan>
+                            </text>
+                            <g id="Group-9" transform="translate(320.000000, 16.000000)">
+                                <g id="Rectangle-90">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <rect stroke="#DBDBDB" stroke-width="1" x="0.5" y="0.5" width="17" height="17" rx="8.5"></rect>
+                                </g>
+                            </g>
+                            <g id="VERTICAL#398E04BF-2254-4C0F-A381-92AA22503B51#23DE1295-F911-4000-A96D-D0EC3163D161" transform="translate(260.000000, 28.000000)" fill="#656AD2">
+                                <rect id="ruler-start" x="0" y="6" width="5" height="1"></rect>
+                                <rect id="ruler-end" x="0" y="9" width="5" height="1"></rect>
+                                <rect id="ruler-line" x="2" y="6" width="1" height="4"></rect>
+                                <text id="label-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                                    <tspan x="13.3349609" y="11">4px</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

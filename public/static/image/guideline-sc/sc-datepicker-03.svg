@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="879px" height="968px" viewBox="0 0 879 968" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="254" height="285" rx="3"></rect>
+        <filter x="-7.9%" y="-4.2%" width="115.7%" height="114.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="167" height="32" rx="2"></rect>
+        <rect id="path-4" x="0" y="0" width="458" height="281" rx="3"></rect>
+        <filter x="-4.4%" y="-4.3%" width="108.7%" height="114.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="207" height="32" rx="2"></rect>
+        <rect id="path-7" x="0" y="0" width="317" height="285" rx="3"></rect>
+        <filter x="-6.3%" y="-4.2%" width="112.6%" height="114.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="47" height="205"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="0" y="0" width="167" height="32" rx="2"></rect>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V0.9.0" transform="translate(-800.000000, -2125.000000)">
+            <g id="Group-33" transform="translate(106.000000, 2071.000000)">
+                <g id="Group-32" transform="translate(694.000000, 54.000000)">
+                    <rect id="Rectangle" fill="#FAFAFA" x="0" y="0" width="879" height="968"></rect>
+                    <g id="Group-17" transform="translate(40.000000, 33.000000)">
+                        <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="354" height="386"></rect>
+                        <g id="Group-13" transform="translate(50.000000, 38.000000)">
+                            <g id="Group-10" transform="translate(0.000000, 36.000000)">
+                                <g id="Rectangle-2">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="calendar/single" transform="translate(28.000000, 16.000000)">
+                                    <g id="Group-6">
+                                        <path d="M5.88319895,11.3567966 C5.86431228,11.3783108 5.83684075,11.3723068 5.81580786,11.3883173 L0.698806938,16.8604084 C0.538699452,17.0465305 0.279866169,17.0465305 0.120187925,16.8604084 C-0.0394903184,16.6742863 -0.0394903184,16.3720879 0.120187925,16.1859658 L4.97105845,10.9995622 L0.119758683,5.81315864 C-0.039919561,5.62703649 -0.039919561,5.32483818 0.119758683,5.13921636 C0.279436927,4.95359455 0.538270209,4.95359455 0.697948453,5.13921636 L5.81409089,10.6088058 C5.83555302,10.6258169 5.86431228,10.619813 5.88319895,10.6423278 C5.96818898,10.7408925 6.0046746,10.8719785 5.99952369,11.0015635 C6.00381612,11.1291473 5.96647201,11.2587323 5.88319895,11.3567966 Z" id="Imported-Layers-Copy" fill="#8C8C8C" transform="translate(3.000000, 11.000000) scale(-1, 1) translate(-3.000000, -11.000000) "></path>
+                                        <path d="M193.883199,11.3567966 C193.864312,11.3783108 193.836841,11.3723068 193.815808,11.3883173 L188.698807,16.8604084 C188.538699,17.0465305 188.279866,17.0465305 188.120188,16.8604084 C187.96051,16.6742863 187.96051,16.3720879 188.120188,16.1859658 L192.971058,10.9995622 L188.119759,5.81315864 C187.96008,5.62703649 187.96008,5.32483818 188.119759,5.13921636 C188.279437,4.95359455 188.53827,4.95359455 188.697948,5.13921636 L193.814091,10.6088058 C193.835553,10.6258169 193.864312,10.619813 193.883199,10.6423278 C193.968189,10.7408925 194.004675,10.8719785 193.999524,11.0015635 C194.003816,11.1291473 193.966472,11.2587323 193.883199,11.3567966 Z" id="Imported-Layers-Copy" fill="#8C8C8C"></path>
+                                        <g id="Group-5" transform="translate(30.000000, 67.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" font-size="12">
+                                            <text id="1" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="5.63085938" y="12">1</tspan>
+                                            </text>
+                                            <text id="2" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="35.6308594" y="12">2</tspan>
+                                            </text>
+                                            <text id="3" line-spacing="18" fill="#333333">
+                                                <tspan x="65.6308594" y="11">3</tspan>
+                                            </text>
+                                            <text id="4" line-spacing="18" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="95.6308594" y="11">4</tspan>
+                                            </text>
+                                            <text id="5" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="125.630859" y="12">5</tspan>
+                                            </text>
+                                            <text id="6" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="155.630859" y="12">6</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-2" transform="translate(0.000000, 37.000000)" font-size="12" font-family="Roboto-Regular, Roboto" fill="#888888" font-weight="normal">
+                                            <text id="S" line-spacing="18">
+                                                <tspan x="5.44042969" y="11">S</tspan>
+                                            </text>
+                                            <text id="M" line-spacing="12">
+                                                <tspan x="30" y="14">M</tspan>
+                                            </text>
+                                            <text id="T" line-spacing="12">
+                                                <tspan x="60" y="14">T</tspan>
+                                            </text>
+                                            <text id="W" line-spacing="18">
+                                                <tspan x="93.6767578" y="11">W</tspan>
+                                            </text>
+                                            <text id="T" line-spacing="18">
+                                                <tspan x="125.419922" y="11">T</tspan>
+                                            </text>
+                                            <text id="F" line-spacing="12">
+                                                <tspan x="150" y="14">F</tspan>
+                                            </text>
+                                            <text id="S" line-spacing="12">
+                                                <tspan x="180" y="14">S</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-4" transform="translate(0.000000, 97.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="11">
+                                                <tspan x="122.261719" y="11">11</tspan>
+                                            </text>
+                                            <text id="8">
+                                                <tspan x="35.6308594" y="11">8</tspan>
+                                            </text>
+                                            <text id="9">
+                                                <tspan x="65.6308594" y="11">9</tspan>
+                                            </text>
+                                            <text id="10">
+                                                <tspan x="92.2617188" y="11">10</tspan>
+                                            </text>
+                                            <text id="7">
+                                                <tspan x="5.63085938" y="11">7</tspan>
+                                            </text>
+                                            <text id="12">
+                                                <tspan x="152.261719" y="11">12</tspan>
+                                            </text>
+                                            <text id="13">
+                                                <tspan x="182.261719" y="11">13</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-3" transform="translate(0.000000, 127.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" font-size="12">
+                                            <text id="14" fill="#333333">
+                                                <tspan x="2.26171875" y="11">14</tspan>
+                                            </text>
+                                            <text id="15" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="32.2617188" y="11">15</tspan>
+                                            </text>
+                                            <text id="16" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="62.2617188" y="11">16</tspan>
+                                            </text>
+                                            <text id="17" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="92.2617188" y="11">17</tspan>
+                                            </text>
+                                            <text id="18" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="122.261719" y="11">18</tspan>
+                                            </text>
+                                            <text id="19" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="152.261719" y="11">19</tspan>
+                                            </text>
+                                            <text id="20" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="182.261719" y="11">20</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group" transform="translate(0.000000, 157.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="21">
+                                                <tspan x="2.26171875" y="11">21</tspan>
+                                            </text>
+                                            <text id="22">
+                                                <tspan x="32.2617188" y="11">22</tspan>
+                                            </text>
+                                            <text id="23">
+                                                <tspan x="62.2617188" y="11">23</tspan>
+                                            </text>
+                                            <text id="24">
+                                                <tspan x="92.2617188" y="11">24</tspan>
+                                            </text>
+                                            <text id="25">
+                                                <tspan x="122.261719" y="11">25</tspan>
+                                            </text>
+                                            <text id="26">
+                                                <tspan x="152.261719" y="11">26</tspan>
+                                            </text>
+                                            <text id="27">
+                                                <tspan x="182.261719" y="11">27</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-11" transform="translate(0.000000, 187.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="28">
+                                                <tspan x="2.26171875" y="11">28</tspan>
+                                            </text>
+                                            <text id="29">
+                                                <tspan x="32.2617188" y="11">29</tspan>
+                                            </text>
+                                            <text id="30">
+                                                <tspan x="62.2617188" y="11">30</tspan>
+                                            </text>
+                                            <text id="31">
+                                                <tspan x="92.2617188" y="11">31</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="July-2017" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21">
+                                            <tspan x="67.5629883" y="13" fill="#4A4A4A">July </tspan>
+                                            <tspan x="96.9916992" y="13" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#9B9B9B">2017</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <rect id="Rectangle-11" fill="#FFFFFF" x="117" y="79" width="19" height="25"></rect>
+                                <text id="3" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#FF5722">
+                                    <tspan x="123.589844" y="94">3</tspan>
+                                </text>
+                                <g id="Group-28" transform="translate(16.000000, 245.000000)">
+                                    <g id="Group-27" transform="translate(83.000000, 0.000000)">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="54" height="24" rx="2"></rect>
+                                        <text id="TODAY" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">TODAY</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Group-27">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="83" height="24" rx="2"></rect>
+                                        <text id="YESTERDAY" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">YESTERDAY</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Group-27" transform="translate(137.000000, 0.000000)">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="85" height="24" rx="2"></rect>
+                                        <text id="TOMORROW" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">TOMORROW</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-12">
+                                <g id="Rectangle-3">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    <rect stroke="#FF5722" stroke-width="1" x="0.5" y="0.5" width="166" height="31" rx="2"></rect>
+                                </g>
+                                <path d="M147.066667,20.2 L148.933333,20.2 L148.933333,18.3333333 L147.066667,18.3333333 L147.066667,20.2 Z M150.333333,16.9333333 L152.2,16.9333333 L152.2,15.0666667 L150.333333,15.0666667 L150.333333,16.9333333 Z M150.333333,20.2 L152.2,20.2 L152.2,18.3333333 L150.333333,18.3333333 L150.333333,20.2 Z M143.8,20.2 L145.666667,20.2 L145.666667,18.3333333 L143.8,18.3333333 L143.8,20.2 Z M147.066667,16.9333333 L148.933333,16.9333333 L148.933333,15.0666667 L147.066667,15.0666667 L147.066667,16.9333333 Z M143.8,16.9333333 L145.666667,16.9333333 L145.666667,15.0666667 L143.8,15.0666667 L143.8,16.9333333 Z M154.066667,20.6666667 C154.066667,21.4399333 153.439933,22.0666667 152.666667,22.0666667 L143.333333,22.0666667 C142.560067,22.0666667 141.933333,21.4399333 141.933333,20.6666667 L141.933333,13.2 L154.066667,13.2 L154.066667,20.6666667 Z M141.933333,11.8 C141.933333,11.0267333 142.560067,10.4 143.333333,10.4 L144.5,10.4 L144.5,11.3333333 L145.433333,11.3333333 L145.433333,10.4 L150.566667,10.4 L150.566667,11.3333333 L151.5,11.3333333 L151.5,10.4 L152.666667,10.4 C153.439933,10.4 154.066667,11.0267333 154.066667,11.8 L154.066667,12.2666667 L141.933333,12.2666667 L141.933333,11.8 Z M152.666667,9.46666667 L151.5,9.46666667 L151.5,9 L150.566667,9 L150.566667,9.46666667 L145.433333,9.46666667 L145.433333,9 L144.5,9 L144.5,9.46666667 L143.333333,9.46666667 C142.044867,9.46666667 141,10.5115333 141,11.8 L141,20.6666667 C141,21.9556 142.044867,23 143.333333,23 L152.666667,23 C153.9556,23 155,21.9556 155,20.6666667 L155,11.8 C155,10.5115333 153.9556,9.46666667 152.666667,9.46666667 L152.666667,9.46666667 Z" id="Page-1" fill="#CCCCCC"></path>
+                                <text id="Select-date" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#CCCCCC">
+                                    <tspan x="10" y="19">Select date</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="选择日期" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                            <tspan x="154" y="421">选择日期</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-14" transform="translate(40.000000, 502.000000)">
+                        <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="559" height="380"></rect>
+                        <text id="选择日期区间" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                            <tspan x="244" y="414">选择日期区间</tspan>
+                        </text>
+                        <g id="Group-13" transform="translate(51.000000, 28.000000)">
+                            <g id="Group-10" transform="translate(0.000000, 36.000000)">
+                                <g id="Rectangle-2">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                </g>
+                                <g id="Group-30" transform="translate(111.000000, 241.000000)">
+                                    <g id="Group-27" transform="translate(62.000000, 0.000000)">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="78" height="24" rx="2"></rect>
+                                        <text id="THIS-WEEK" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">THIS WEEK</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Group-27">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="54" height="24" rx="2"></rect>
+                                        <text id="TODAY" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">TODAY</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="Group-27" transform="translate(148.000000, 0.000000)">
+                                        <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="89" height="24" rx="2"></rect>
+                                        <text id="THIS-MONTH" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                            <tspan x="8" y="14">THIS MONTH</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Group-31" transform="translate(16.000000, 16.000000)">
+                                    <g id="calendar/single" transform="translate(225.000000, 0.000000)">
+                                        <g id="Group-6" transform="translate(0.000000, -1.000000)">
+                                            <path d="M5.97233833,12.1352006 C5.95316549,12.1562949 5.92527773,12.1504082 5.90392617,12.1661063 L0.709394922,17.5314248 C0.546861565,17.7139153 0.284106566,17.7139153 0.122008955,17.5314248 C-0.0400886565,17.3489343 -0.0400886565,17.0526326 0.122008955,16.8701421 L5.04637751,11.7849366 L0.121573208,6.69973115 C-0.0405244028,6.51724066 -0.0405244028,6.22093889 0.121573208,6.03893897 C0.28367082,5.85693904 0.546425818,5.85693904 0.708523429,6.03893897 L5.90218318,11.4018047 C5.92397049,11.4184839 5.95316549,11.4125971 5.97233833,11.4346726 C6.05861609,11.5313141 6.09565452,11.6598423 6.09042557,11.7868989 C6.09478303,11.9119932 6.05687311,12.0390497 5.97233833,12.1352006 Z" id="Imported-Layers-Copy" fill="#8C8C8C" transform="translate(3.045455, 11.785366) scale(-1, 1) translate(-3.045455, -11.785366) "></path>
+                                            <path d="M196.820823,12.1352006 C196.80165,12.1562949 196.773763,12.1504082 196.752411,12.1661063 L191.55788,17.5314248 C191.395346,17.7139153 191.132591,17.7139153 190.970494,17.5314248 C190.808396,17.3489343 190.808396,17.0526326 190.970494,16.8701421 L195.894862,11.7849366 L190.970058,6.69973115 C190.80796,6.51724066 190.80796,6.22093889 190.970058,6.03893897 C191.132156,5.85693904 191.394911,5.85693904 191.557008,6.03893897 L196.750668,11.4018047 C196.772455,11.4184839 196.80165,11.4125971 196.820823,11.4346726 C196.907101,11.5313141 196.944139,11.6598423 196.93891,11.7868989 C196.943268,11.9119932 196.905358,12.0390497 196.820823,12.1352006 Z" id="Imported-Layers-Copy" fill="#8C8C8C"></path>
+                                            <g id="Group-5" transform="translate(30.454545, 66.692683)" font-weight="normal" font-family="Roboto-Regular, Roboto" font-size="12">
+                                                <text id="1" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="5.76722301" y="12">1</tspan>
+                                                </text>
+                                                <text id="2" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="36.0399503" y="12">2</tspan>
+                                                </text>
+                                                <text id="3" line-spacing="18" fill="#333333">
+                                                    <tspan x="66.3126776" y="11">3</tspan>
+                                                </text>
+                                                <text id="4" line-spacing="18" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="96.5854048" y="11">4</tspan>
+                                                </text>
+                                                <text id="5" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="126.858132" y="12">5</tspan>
+                                                </text>
+                                                <text id="6" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="157.130859" y="12">6</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-2" transform="translate(0.000000, 37.278049)" font-size="12" font-family="Roboto-Regular, Roboto" fill="#888888" font-weight="normal">
+                                                <text id="S" line-spacing="18">
+                                                    <tspan x="5.57679332" y="11">S</tspan>
+                                                </text>
+                                                <text id="M" line-spacing="12">
+                                                    <tspan x="30.2727273" y="14">M</tspan>
+                                                </text>
+                                                <text id="T" line-spacing="12">
+                                                    <tspan x="60.5454545" y="14">T</tspan>
+                                                </text>
+                                                <text id="W" line-spacing="18">
+                                                    <tspan x="94.6313033" y="11">W</tspan>
+                                                </text>
+                                                <text id="T" line-spacing="18">
+                                                    <tspan x="126.647195" y="11">T</tspan>
+                                                </text>
+                                                <text id="F" line-spacing="12">
+                                                    <tspan x="151.363636" y="14">F</tspan>
+                                                </text>
+                                                <text id="S" line-spacing="12">
+                                                    <tspan x="181.636364" y="14">S</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-4" transform="translate(0.000000, 96.107317)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="11">
+                                                    <tspan x="123.488991" y="11">11</tspan>
+                                                </text>
+                                                <text id="8">
+                                                    <tspan x="36.0399503" y="11">8</tspan>
+                                                </text>
+                                                <text id="9">
+                                                    <tspan x="66.3126776" y="11">9</tspan>
+                                                </text>
+                                                <text id="10">
+                                                    <tspan x="93.2162642" y="11">10</tspan>
+                                                </text>
+                                                <text id="7">
+                                                    <tspan x="5.76722301" y="11">7</tspan>
+                                                </text>
+                                                <text id="12">
+                                                    <tspan x="153.761719" y="11">12</tspan>
+                                                </text>
+                                                <text id="13">
+                                                    <tspan x="184.034446" y="11">13</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-3" transform="translate(0.000000, 125.521951)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" font-size="12">
+                                                <text id="14" fill="#333333">
+                                                    <tspan x="2.39808239" y="11">14</tspan>
+                                                </text>
+                                                <text id="15" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="32.6708097" y="11">15</tspan>
+                                                </text>
+                                                <text id="16" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="62.9435369" y="11">16</tspan>
+                                                </text>
+                                                <text id="17" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="93.2162642" y="11">17</tspan>
+                                                </text>
+                                                <text id="18" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="123.488991" y="11">18</tspan>
+                                                </text>
+                                                <text id="19" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="153.761719" y="11">19</tspan>
+                                                </text>
+                                                <text id="20" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="184.034446" y="11">20</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group" transform="translate(0.000000, 154.936585)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="21">
+                                                    <tspan x="2.39808239" y="11">21</tspan>
+                                                </text>
+                                                <text id="22">
+                                                    <tspan x="32.6708097" y="11">22</tspan>
+                                                </text>
+                                                <text id="23">
+                                                    <tspan x="62.9435369" y="11">23</tspan>
+                                                </text>
+                                                <text id="24">
+                                                    <tspan x="93.2162642" y="11">24</tspan>
+                                                </text>
+                                                <text id="25">
+                                                    <tspan x="123.488991" y="11">25</tspan>
+                                                </text>
+                                                <text id="26">
+                                                    <tspan x="153.761719" y="11">26</tspan>
+                                                </text>
+                                                <text id="27">
+                                                    <tspan x="184.034446" y="11">27</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-11" transform="translate(0.000000, 184.351220)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="28">
+                                                    <tspan x="2.39808239" y="11">28</tspan>
+                                                </text>
+                                                <text id="29">
+                                                    <tspan x="32.6708097" y="11">29</tspan>
+                                                </text>
+                                                <text id="30">
+                                                    <tspan x="62.9435369" y="11">30</tspan>
+                                                </text>
+                                                <text id="31">
+                                                    <tspan x="93.2162642" y="11">31</tspan>
+                                                </text>
+                                            </g>
+                                            <text id="July-2017" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21">
+                                                <tspan x="69.0478368" y="13.795122" fill="#4A4A4A">July </tspan>
+                                                <tspan x="98.4765477" y="13.795122" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#9B9B9B">2017</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="calendar/single">
+                                        <g id="Group-6" transform="translate(0.000000, -1.000000)">
+                                            <path d="M5.97233833,12.1352006 C5.95316549,12.1562949 5.92527773,12.1504082 5.90392617,12.1661063 L0.709394922,17.5314248 C0.546861565,17.7139153 0.284106566,17.7139153 0.122008955,17.5314248 C-0.0400886565,17.3489343 -0.0400886565,17.0526326 0.122008955,16.8701421 L5.04637751,11.7849366 L0.121573208,6.69973115 C-0.0405244028,6.51724066 -0.0405244028,6.22093889 0.121573208,6.03893897 C0.28367082,5.85693904 0.546425818,5.85693904 0.708523429,6.03893897 L5.90218318,11.4018047 C5.92397049,11.4184839 5.95316549,11.4125971 5.97233833,11.4346726 C6.05861609,11.5313141 6.09565452,11.6598423 6.09042557,11.7868989 C6.09478303,11.9119932 6.05687311,12.0390497 5.97233833,12.1352006 Z" id="Imported-Layers-Copy" fill="#8C8C8C" transform="translate(3.045455, 11.785366) scale(-1, 1) translate(-3.045455, -11.785366) "></path>
+                                            <path d="M196.820823,12.1352006 C196.80165,12.1562949 196.773763,12.1504082 196.752411,12.1661063 L191.55788,17.5314248 C191.395346,17.7139153 191.132591,17.7139153 190.970494,17.5314248 C190.808396,17.3489343 190.808396,17.0526326 190.970494,16.8701421 L195.894862,11.7849366 L190.970058,6.69973115 C190.80796,6.51724066 190.80796,6.22093889 190.970058,6.03893897 C191.132156,5.85693904 191.394911,5.85693904 191.557008,6.03893897 L196.750668,11.4018047 C196.772455,11.4184839 196.80165,11.4125971 196.820823,11.4346726 C196.907101,11.5313141 196.944139,11.6598423 196.93891,11.7868989 C196.943268,11.9119932 196.905358,12.0390497 196.820823,12.1352006 Z" id="Imported-Layers-Copy" fill="#8C8C8C"></path>
+                                            <g id="Group-5" transform="translate(30.454545, 66.692683)" font-weight="normal" font-family="Roboto-Regular, Roboto" font-size="12">
+                                                <text id="1" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="5.76722301" y="12">1</tspan>
+                                                </text>
+                                                <text id="2" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="36.0399503" y="12">2</tspan>
+                                                </text>
+                                                <text id="3" line-spacing="18" fill="#333333">
+                                                    <tspan x="66.3126776" y="11">3</tspan>
+                                                </text>
+                                                <text id="4" line-spacing="18" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="96.5854048" y="11">4</tspan>
+                                                </text>
+                                                <text id="5" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="126.858132" y="12">5</tspan>
+                                                </text>
+                                                <text id="6" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="157.130859" y="12">6</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-2" transform="translate(0.000000, 37.278049)" font-size="12" font-family="Roboto-Regular, Roboto" fill="#888888" font-weight="normal">
+                                                <text id="S" line-spacing="18">
+                                                    <tspan x="5.57679332" y="11">S</tspan>
+                                                </text>
+                                                <text id="M" line-spacing="12">
+                                                    <tspan x="30.2727273" y="14">M</tspan>
+                                                </text>
+                                                <text id="T" line-spacing="12">
+                                                    <tspan x="60.5454545" y="14">T</tspan>
+                                                </text>
+                                                <text id="W" line-spacing="18">
+                                                    <tspan x="94.6313033" y="11">W</tspan>
+                                                </text>
+                                                <text id="T" line-spacing="18">
+                                                    <tspan x="126.647195" y="11">T</tspan>
+                                                </text>
+                                                <text id="F" line-spacing="12">
+                                                    <tspan x="151.363636" y="14">F</tspan>
+                                                </text>
+                                                <text id="S" line-spacing="12">
+                                                    <tspan x="181.636364" y="14">S</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-4" transform="translate(0.000000, 96.107317)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="11">
+                                                    <tspan x="123.488991" y="11">11</tspan>
+                                                </text>
+                                                <text id="8">
+                                                    <tspan x="36.0399503" y="11">8</tspan>
+                                                </text>
+                                                <text id="9">
+                                                    <tspan x="66.3126776" y="11">9</tspan>
+                                                </text>
+                                                <text id="10">
+                                                    <tspan x="93.2162642" y="11">10</tspan>
+                                                </text>
+                                                <text id="7">
+                                                    <tspan x="5.76722301" y="11">7</tspan>
+                                                </text>
+                                                <text id="12">
+                                                    <tspan x="153.761719" y="11">12</tspan>
+                                                </text>
+                                                <text id="13">
+                                                    <tspan x="184.034446" y="11">13</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-3" transform="translate(0.000000, 125.521951)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" font-size="12">
+                                                <text id="14" fill="#333333">
+                                                    <tspan x="2.39808239" y="11">14</tspan>
+                                                </text>
+                                                <text id="15" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="32.6708097" y="11">15</tspan>
+                                                </text>
+                                                <text id="16" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="62.9435369" y="11">16</tspan>
+                                                </text>
+                                                <text id="17" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="93.2162642" y="11">17</tspan>
+                                                </text>
+                                                <text id="18" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="123.488991" y="11">18</tspan>
+                                                </text>
+                                                <text id="19" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="153.761719" y="11">19</tspan>
+                                                </text>
+                                                <text id="20" fill-opacity="0.8" fill="#000000">
+                                                    <tspan x="184.034446" y="11">20</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group" transform="translate(0.000000, 154.936585)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="21">
+                                                    <tspan x="2.39808239" y="11">21</tspan>
+                                                </text>
+                                                <text id="22">
+                                                    <tspan x="32.6708097" y="11">22</tspan>
+                                                </text>
+                                                <text id="23">
+                                                    <tspan x="62.9435369" y="11">23</tspan>
+                                                </text>
+                                                <text id="24">
+                                                    <tspan x="93.2162642" y="11">24</tspan>
+                                                </text>
+                                                <text id="25">
+                                                    <tspan x="123.488991" y="11">25</tspan>
+                                                </text>
+                                                <text id="26">
+                                                    <tspan x="153.761719" y="11">26</tspan>
+                                                </text>
+                                                <text id="27">
+                                                    <tspan x="184.034446" y="11">27</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="Group-11" transform="translate(0.000000, 184.351220)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                                <text id="28">
+                                                    <tspan x="2.39808239" y="11">28</tspan>
+                                                </text>
+                                                <text id="29">
+                                                    <tspan x="32.6708097" y="11">29</tspan>
+                                                </text>
+                                                <text id="30">
+                                                    <tspan x="62.9435369" y="11">30</tspan>
+                                                </text>
+                                                <text id="31">
+                                                    <tspan x="93.2162642" y="11">31</tspan>
+                                                </text>
+                                            </g>
+                                            <text id="July-2017" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21">
+                                                <tspan x="66.5937352" y="13.795122" fill="#4A4A4A">June </tspan>
+                                                <tspan x="100.930649" y="13.795122" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#9B9B9B">2017</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                </g>
+                                <rect id="Rectangle-8" fill="#FFFFFF" x="198" y="16" width="63" height="19"></rect>
+                            </g>
+                            <g id="Group-12">
+                                <g id="Rectangle-3">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                    <rect stroke="#FF5722" stroke-width="1" x="0.5" y="0.5" width="206" height="31" rx="2"></rect>
+                                </g>
+                                <path d="M187.066667,20.2 L188.933333,20.2 L188.933333,18.3333333 L187.066667,18.3333333 L187.066667,20.2 Z M190.333333,16.9333333 L192.2,16.9333333 L192.2,15.0666667 L190.333333,15.0666667 L190.333333,16.9333333 Z M190.333333,20.2 L192.2,20.2 L192.2,18.3333333 L190.333333,18.3333333 L190.333333,20.2 Z M183.8,20.2 L185.666667,20.2 L185.666667,18.3333333 L183.8,18.3333333 L183.8,20.2 Z M187.066667,16.9333333 L188.933333,16.9333333 L188.933333,15.0666667 L187.066667,15.0666667 L187.066667,16.9333333 Z M183.8,16.9333333 L185.666667,16.9333333 L185.666667,15.0666667 L183.8,15.0666667 L183.8,16.9333333 Z M194.066667,20.6666667 C194.066667,21.4399333 193.439933,22.0666667 192.666667,22.0666667 L183.333333,22.0666667 C182.560067,22.0666667 181.933333,21.4399333 181.933333,20.6666667 L181.933333,13.2 L194.066667,13.2 L194.066667,20.6666667 Z M181.933333,11.8 C181.933333,11.0267333 182.560067,10.4 183.333333,10.4 L184.5,10.4 L184.5,11.3333333 L185.433333,11.3333333 L185.433333,10.4 L190.566667,10.4 L190.566667,11.3333333 L191.5,11.3333333 L191.5,10.4 L192.666667,10.4 C193.439933,10.4 194.066667,11.0267333 194.066667,11.8 L194.066667,12.2666667 L181.933333,12.2666667 L181.933333,11.8 Z M192.666667,9.46666667 L191.5,9.46666667 L191.5,9 L190.566667,9 L190.566667,9.46666667 L185.433333,9.46666667 L185.433333,9 L184.5,9 L184.5,9.46666667 L183.333333,9.46666667 C182.044867,9.46666667 181,10.5115333 181,11.8 L181,20.6666667 C181,21.9556 182.044867,23 183.333333,23 L192.666667,23 C193.9556,23 195,21.9556 195,20.6666667 L195,11.8 C195,10.5115333 193.9556,9.46666667 192.666667,9.46666667 L192.666667,9.46666667 Z" id="Page-1" fill="#CCCCCC"></path>
+                                <text id="Set-period" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#CCCCCC">
+                                    <tspan x="10" y="19">Set period</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-17" transform="translate(443.000000, 33.000000)">
+                        <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="405" height="386"></rect>
+                        <g id="Group-13" transform="translate(50.000000, 38.000000)">
+                            <g id="Group-10" transform="translate(0.000000, 36.000000)">
+                                <g id="Rectangle-2">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                </g>
+                                <g id="calendar/single" transform="translate(28.000000, 16.000000)">
+                                    <g id="Group-6">
+                                        <path d="M5.88319895,11.3567966 C5.86431228,11.3783108 5.83684075,11.3723068 5.81580786,11.3883173 L0.698806938,16.8604084 C0.538699452,17.0465305 0.279866169,17.0465305 0.120187925,16.8604084 C-0.0394903184,16.6742863 -0.0394903184,16.3720879 0.120187925,16.1859658 L4.97105845,10.9995622 L0.119758683,5.81315864 C-0.039919561,5.62703649 -0.039919561,5.32483818 0.119758683,5.13921636 C0.279436927,4.95359455 0.538270209,4.95359455 0.697948453,5.13921636 L5.81409089,10.6088058 C5.83555302,10.6258169 5.86431228,10.619813 5.88319895,10.6423278 C5.96818898,10.7408925 6.0046746,10.8719785 5.99952369,11.0015635 C6.00381612,11.1291473 5.96647201,11.2587323 5.88319895,11.3567966 Z" id="Imported-Layers-Copy" fill="#8C8C8C" transform="translate(3.000000, 11.000000) scale(-1, 1) translate(-3.000000, -11.000000) "></path>
+                                        <path d="M193.883199,11.3567966 C193.864312,11.3783108 193.836841,11.3723068 193.815808,11.3883173 L188.698807,16.8604084 C188.538699,17.0465305 188.279866,17.0465305 188.120188,16.8604084 C187.96051,16.6742863 187.96051,16.3720879 188.120188,16.1859658 L192.971058,10.9995622 L188.119759,5.81315864 C187.96008,5.62703649 187.96008,5.32483818 188.119759,5.13921636 C188.279437,4.95359455 188.53827,4.95359455 188.697948,5.13921636 L193.814091,10.6088058 C193.835553,10.6258169 193.864312,10.619813 193.883199,10.6423278 C193.968189,10.7408925 194.004675,10.8719785 193.999524,11.0015635 C194.003816,11.1291473 193.966472,11.2587323 193.883199,11.3567966 Z" id="Imported-Layers-Copy" fill="#8C8C8C"></path>
+                                        <g id="Group-5" transform="translate(30.000000, 67.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" font-size="12">
+                                            <text id="1" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="5.63085938" y="12">1</tspan>
+                                            </text>
+                                            <text id="2" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="35.6308594" y="12">2</tspan>
+                                            </text>
+                                            <text id="3" line-spacing="18" fill="#333333">
+                                                <tspan x="65.6308594" y="11">3</tspan>
+                                            </text>
+                                            <text id="4" line-spacing="18" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="95.6308594" y="11">4</tspan>
+                                            </text>
+                                            <text id="5" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="125.630859" y="12">5</tspan>
+                                            </text>
+                                            <text id="6" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="155.630859" y="12">6</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-2" transform="translate(0.000000, 37.000000)" font-size="12" font-family="Roboto-Regular, Roboto" fill="#888888" font-weight="normal">
+                                            <text id="S" line-spacing="18">
+                                                <tspan x="5.44042969" y="11">S</tspan>
+                                            </text>
+                                            <text id="M" line-spacing="12">
+                                                <tspan x="30" y="14">M</tspan>
+                                            </text>
+                                            <text id="T" line-spacing="12">
+                                                <tspan x="60" y="14">T</tspan>
+                                            </text>
+                                            <text id="W" line-spacing="18">
+                                                <tspan x="93.6767578" y="11">W</tspan>
+                                            </text>
+                                            <text id="T" line-spacing="18">
+                                                <tspan x="125.419922" y="11">T</tspan>
+                                            </text>
+                                            <text id="F" line-spacing="12">
+                                                <tspan x="150" y="14">F</tspan>
+                                            </text>
+                                            <text id="S" line-spacing="12">
+                                                <tspan x="180" y="14">S</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-4" transform="translate(0.000000, 97.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="11">
+                                                <tspan x="122.261719" y="11">11</tspan>
+                                            </text>
+                                            <text id="8">
+                                                <tspan x="35.6308594" y="11">8</tspan>
+                                            </text>
+                                            <text id="9">
+                                                <tspan x="65.6308594" y="11">9</tspan>
+                                            </text>
+                                            <text id="10">
+                                                <tspan x="92.2617188" y="11">10</tspan>
+                                            </text>
+                                            <text id="7">
+                                                <tspan x="5.63085938" y="11">7</tspan>
+                                            </text>
+                                            <text id="12">
+                                                <tspan x="152.261719" y="11">12</tspan>
+                                            </text>
+                                            <text id="13">
+                                                <tspan x="182.261719" y="11">13</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-3" transform="translate(0.000000, 127.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" font-size="12">
+                                            <text id="14" fill="#333333">
+                                                <tspan x="2.26171875" y="11">14</tspan>
+                                            </text>
+                                            <text id="15" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="32.2617188" y="11">15</tspan>
+                                            </text>
+                                            <text id="16" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="62.2617188" y="11">16</tspan>
+                                            </text>
+                                            <text id="17" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="92.2617188" y="11">17</tspan>
+                                            </text>
+                                            <text id="18" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="122.261719" y="11">18</tspan>
+                                            </text>
+                                            <text id="19" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="152.261719" y="11">19</tspan>
+                                            </text>
+                                            <text id="20" fill-opacity="0.8" fill="#000000">
+                                                <tspan x="182.261719" y="11">20</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group" transform="translate(0.000000, 157.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="21">
+                                                <tspan x="2.26171875" y="11">21</tspan>
+                                            </text>
+                                            <text id="22">
+                                                <tspan x="32.2617188" y="11">22</tspan>
+                                            </text>
+                                            <text id="23">
+                                                <tspan x="62.2617188" y="11">23</tspan>
+                                            </text>
+                                            <text id="24">
+                                                <tspan x="92.2617188" y="11">24</tspan>
+                                            </text>
+                                            <text id="25">
+                                                <tspan x="122.261719" y="11">25</tspan>
+                                            </text>
+                                            <text id="26">
+                                                <tspan x="152.261719" y="11">26</tspan>
+                                            </text>
+                                            <text id="27">
+                                                <tspan x="182.261719" y="11">27</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-11" transform="translate(0.000000, 187.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" line-spacing="18" fill="#000000" font-size="12" fill-opacity="0.8">
+                                            <text id="28">
+                                                <tspan x="2.26171875" y="11">28</tspan>
+                                            </text>
+                                            <text id="29">
+                                                <tspan x="32.2617188" y="11">29</tspan>
+                                            </text>
+                                            <text id="30">
+                                                <tspan x="62.2617188" y="11">30</tspan>
+                                            </text>
+                                            <text id="31">
+                                                <tspan x="92.2617188" y="11">31</tspan>
+                                            </text>
+                                        </g>
+                                        <text id="July-2017" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21">
+                                            <tspan x="67.5629883" y="13" fill="#4A4A4A">July </tspan>
+                                            <tspan x="96.9916992" y="13" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#9B9B9B">2017</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Group-9" transform="translate(254.000000, 16.000000)">
+                                    <mask id="mask-10" fill="white">
+                                        <use xlink:href="#path-9"></use>
+                                    </mask>
+                                    <g id="Rectangle"></g>
+                                    <g id="Group-11" mask="url(#mask-10)">
+                                        <g transform="translate(1.000000, -15.000000)">
+                                            <text id="23" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                                                <tspan x="0" y="114" fill="#404040">23</tspan>
+                                            </text>
+                                            <text id="18-19-20-21-22" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20">
+                                                <tspan x="2.5234375" y="11" fill="#888888">18</tspan>
+                                                <tspan x="2.5234375" y="31" fill="#888888">19</tspan>
+                                                <tspan x="2.5234375" y="51" fill="#888888">20</tspan>
+                                                <tspan x="2.5234375" y="71" fill="#888888">21</tspan>
+                                                <tspan x="2.5234375" y="91" fill="#888888">22</tspan>
+                                            </text>
+                                            <text id="10-20-30-40-50" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20">
+                                                <tspan x="30" y="133" fill="#888888">10</tspan>
+                                                <tspan x="30" y="153" fill="#888888">20</tspan>
+                                                <tspan x="30" y="173" fill="#888888">30</tspan>
+                                                <tspan x="30" y="193" fill="#888888">40</tspan>
+                                                <tspan x="30" y="213" fill="#888888">50</tspan>
+                                            </text>
+                                            <text id="00" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                                                <tspan x="30" y="114" fill="#404040">00</tspan>
+                                            </text>
+                                            <text id=":" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                                                <tspan x="21" y="114" fill="#404040">:</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle" fill="url(#linearGradient-11)" mask="url(#mask-10)" x="-7" y="0" width="62" height="40"></rect>
+                                    <rect id="Rectangle" fill="url(#linearGradient-11)" mask="url(#mask-10)" transform="translate(24.000000, 185.000000) scale(1, -1) translate(-24.000000, -185.000000) " x="-7" y="165" width="62" height="40"></rect>
+                                </g>
+                                <rect id="Rectangle-11" fill="#FFFFFF" x="117" y="79" width="19" height="25"></rect>
+                                <text id="3" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#FF5722">
+                                    <tspan x="123.589844" y="94">3</tspan>
+                                </text>
+                                <g id="Group-28" transform="translate(16.000000, 237.000000)">
+                                    <g id="Group-29" transform="translate(0.000000, 8.000000)">
+                                        <g id="Group-27" transform="translate(83.000000, 0.000000)">
+                                            <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="54" height="24" rx="2"></rect>
+                                            <text id="TODAY" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                                <tspan x="8" y="14">TODAY</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-27">
+                                            <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="83" height="24" rx="2"></rect>
+                                            <text id="YESTERDAY" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                                <tspan x="8" y="14">YESTERDAY</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-27" transform="translate(137.000000, 0.000000)">
+                                            <rect id="Rectangle-6" opacity="0.400000006" x="0" y="0" width="85" height="24" rx="2"></rect>
+                                            <text id="TOMORROW" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#555555">
+                                                <tspan x="8" y="14">TOMORROW</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="Group-20" transform="translate(238.000000, 8.000000)">
+                                        <rect id="Rectangle-6" fill="#FF5722" opacity="0.400000006" x="0" y="0" width="47" height="24" rx="2"></rect>
+                                        <text id="OK" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" line-spacing="18" fill="#FFFFFF">
+                                            <tspan x="16" y="14">OK</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-12">
+                                <g id="Rectangle-3">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                    <rect stroke="#FF5722" stroke-width="1" x="0.5" y="0.5" width="166" height="31" rx="2"></rect>
+                                </g>
+                                <path d="M147.066667,20.2 L148.933333,20.2 L148.933333,18.3333333 L147.066667,18.3333333 L147.066667,20.2 Z M150.333333,16.9333333 L152.2,16.9333333 L152.2,15.0666667 L150.333333,15.0666667 L150.333333,16.9333333 Z M150.333333,20.2 L152.2,20.2 L152.2,18.3333333 L150.333333,18.3333333 L150.333333,20.2 Z M143.8,20.2 L145.666667,20.2 L145.666667,18.3333333 L143.8,18.3333333 L143.8,20.2 Z M147.066667,16.9333333 L148.933333,16.9333333 L148.933333,15.0666667 L147.066667,15.0666667 L147.066667,16.9333333 Z M143.8,16.9333333 L145.666667,16.9333333 L145.666667,15.0666667 L143.8,15.0666667 L143.8,16.9333333 Z M154.066667,20.6666667 C154.066667,21.4399333 153.439933,22.0666667 152.666667,22.0666667 L143.333333,22.0666667 C142.560067,22.0666667 141.933333,21.4399333 141.933333,20.6666667 L141.933333,13.2 L154.066667,13.2 L154.066667,20.6666667 Z M141.933333,11.8 C141.933333,11.0267333 142.560067,10.4 143.333333,10.4 L144.5,10.4 L144.5,11.3333333 L145.433333,11.3333333 L145.433333,10.4 L150.566667,10.4 L150.566667,11.3333333 L151.5,11.3333333 L151.5,10.4 L152.666667,10.4 C153.439933,10.4 154.066667,11.0267333 154.066667,11.8 L154.066667,12.2666667 L141.933333,12.2666667 L141.933333,11.8 Z M152.666667,9.46666667 L151.5,9.46666667 L151.5,9 L150.566667,9 L150.566667,9.46666667 L145.433333,9.46666667 L145.433333,9 L144.5,9 L144.5,9.46666667 L143.333333,9.46666667 C142.044867,9.46666667 141,10.5115333 141,11.8 L141,20.6666667 C141,21.9556 142.044867,23 143.333333,23 L152.666667,23 C153.9556,23 155,21.9556 155,20.6666667 L155,11.8 C155,10.5115333 153.9556,9.46666667 152.666667,9.46666667 L152.666667,9.46666667 Z" id="Page-1" fill="#CCCCCC"></path>
+                                <text id="Select-date" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#CCCCCC">
+                                    <tspan x="10" y="19">Select date</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <text id="日期+时间选择器" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                            <tspan x="163" y="421">日期+时间选择器</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

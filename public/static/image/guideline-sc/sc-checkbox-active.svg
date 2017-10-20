@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="513px" height="201px" viewBox="0 0 513 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 2.09610107e-13 32 32 -1.77635684e-14 32 9.46633086e-30 0"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="15" height="15"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="15" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170724-V1.0.0" transform="translate(-800.000000, -2502.000000)">
+            <g id="Group-20" transform="translate(106.000000, 1593.000000)">
+                <g id="Group-13" transform="translate(694.000000, 909.000000)">
+                    <rect id="Rectangle-5" fill="#FAFAFA" x="0" y="0" width="513" height="162"></rect>
+                    <text id="Triangle-label-size" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#888888">
+                        <tspan x="157.043" y="198">Triangle label size and spacing</tspan>
+                    </text>
+                    <g id="Group-9" transform="translate(91.000000, 30.000000)">
+                        <g id="Group-17" transform="translate(0.000000, 4.000000)">
+                            <rect id="Rectangle-2" fill="#F5F5F5" x="0" y="0" width="178" height="64"></rect>
+                            <g id="Group-6" transform="translate(146.000000, 32.000000)">
+                                <use id="Rectangle-90" stroke-opacity="0.2" stroke="#000000" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="2,2" xlink:href="#path-1"></use>
+                                <polygon id="Rectangle-90" fill="#CCCCCC" points="32 2.06057393e-13 32 32 -1.687539e-14 32"></polygon>
+                                <path d="M20.2219762,24.6115103 L16.290949,20.6804831 C15.8583683,20.2479023 15.1570163,20.2479023 14.7244356,20.6804831 C14.2918548,21.1130638 14.2918548,21.8144158 14.7244356,22.2469966 L19.4387195,26.9612805 C19.8713002,27.3938613 20.5726522,27.3938613 21.005233,26.9612805 L28.4755644,19.490949 C28.9081452,19.0583683 28.9081452,18.3570163 28.4755644,17.9244356 C28.0429837,17.4918548 27.3416317,17.4918548 26.909051,17.9244356 L20.2219762,24.6115103 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <g id="OVERLAY#2DB3345B-9784-4024-B5EC-6945C7C86109" transform="translate(160.000000, 50.000000)" stroke="#000000" stroke-opacity="0.2" stroke-width="2" stroke-dasharray="2,2">
+                            <use id="overlay" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                        </g>
+                        <rect id="ruler-start" fill="#656AD2" x="175" y="56" width="1" height="5"></rect>
+                        <rect id="ruler-end" fill="#656AD2" x="177" y="56" width="1" height="5"></rect>
+                        <rect id="ruler-line" fill="#656AD2" x="175" y="58" width="3" height="1"></rect>
+                        <text id="Marign-right-&amp;-botto" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#656AD2">
+                            <tspan x="214.598633" y="94">Marign right &amp; bottom: 1px</tspan>
+                        </text>
+                        <g id="BOTTOM#3736878C-15CE-4184-82E4-E8D88654C423#2C4B033F-D7A0-4BBF-8700-C0CF36FB3CCB" transform="translate(166.000000, 65.000000)" fill="#656AD2">
+                            <rect id="ruler-start" x="0" y="0" width="5" height="1"></rect>
+                            <rect id="ruler-end" x="0" y="2" width="5" height="1"></rect>
+                            <rect id="ruler-line" x="2" y="0" width="1" height="3"></rect>
+                        </g>
+                        <polyline id="Path-3" stroke="#FFC200" points="168.5 49.9899998 168.5 39 238.5 39"></polyline>
+                        <circle id="Oval" fill="#FFC200" cx="168.5" cy="50" r="1"></circle>
+                        <circle id="Oval" fill="#FFC200" cx="160" cy="57" r="1"></circle>
+                        <circle id="Oval" fill="#656AD2" cx="168" cy="70" r="1"></circle>
+                        <circle id="Oval" fill="#656AD2" cx="176.5" cy="63" r="1"></circle>
+                        <g id="Group-21" transform="translate(238.000000, 30.000000)">
+                            <path d="M9,0 L118,0 L118,0 C119.104569,-2.02906125e-16 120,0.8954305 120,2 L120,16 L120,16 C120,17.1045695 119.104569,18 118,18 L9,18 L9,18 C4.02943725,18 6.08718376e-16,13.9705627 0,9 L0,9 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 Z" id="Rectangle-7" fill="#FFC200"></path>
+                            <text id="50%-Triangle-Height" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="6.04882812" y="12">50% Triangle Height</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-18" transform="translate(245.000000, 0.000000)">
+                            <path d="M9,0 L111,0 L111,0 C112.104569,-2.02906125e-16 113,0.8954305 113,2 L113,16 L113,16 C113,17.1045695 112.104569,18 111,18 L9,18 L9,18 C4.02943725,18 6.08718376e-16,13.9705627 0,9 L0,9 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 Z" id="Rectangle-7" fill="#FFC200"></path>
+                            <text id="50%-Button-Height" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="6.21679688" y="12">50% Button Height</tspan>
+                            </text>
+                        </g>
+                        <polyline id="Path-4" stroke="#FFC200" points="159.935004 57 155.49975 57 155.49975 39 176.158229 39"></polyline>
+                        <circle id="Oval" fill="#FFC200" cx="145" cy="53" r="1"></circle>
+                        <circle id="Oval" fill="#FFC200" cx="163" cy="35" r="1"></circle>
+                        <polyline id="Path-4" stroke="#FFC200" points="144.822473 53 140.49975 53 140.49975 9 248 9"></polyline>
+                        <polyline id="Path-7" stroke="#656AD2" points="168 70 168 91.620729 211.439814 91.620729"></polyline>
+                        <path d="M176.5,63.4955549 L176.189361,91.7465227" id="Path-8" stroke="#656AD2"></path>
+                        <path d="M163,35.4294256 L163,9.45664924" id="Path-9" stroke="#FFC200"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

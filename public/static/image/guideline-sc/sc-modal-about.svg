@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="389px" viewBox="0 0 900 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 64</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="239" rx="3"></rect>
+        <filter x="-12.0%" y="-13.4%" width="124.0%" height="140.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="170705-V0.9.1" transform="translate(-777.000000, -243.000000)">
+            <g id="Group-64" transform="translate(777.000000, 243.000000)">
+                <g id="Group-7">
+                    <rect id="Rectangle-12" fill="#FAFAFA" x="0" y="0" width="900" height="389"></rect>
+                    <g id="Group-2" transform="translate(217.000000, 68.000000)">
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group" transform="translate(0.000000, 159.000000)">
+                            <path d="M0,0 L400,0 L400,77 L400,77 C400,78.6568542 398.656854,80 397,80 L3,80 L3,80 C1.34314575,80 -2.41183085e-16,78.6568542 -4.4408921e-16,77 L0,0 Z" id="Rectangle-216-Copy" fill="#FFFFFF"></path>
+                            <g id="Group-3" transform="translate(148.000000, 16.000000)">
+                                <g id="Group-17" transform="translate(117.000000, 0.000000)">
+                                    <rect id="Rectangle-2" fill="#FF5722" x="0" y="0" width="111" height="40" rx="2"></rect>
+                                    <text id="CONFIRM" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21" fill="#FFFFFF">
+                                        <tspan x="24.8100586" y="22">CONFIRM</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-14">
+                                    <rect id="Rectangle-2" x="0" y="0" width="101" height="40" rx="2"></rect>
+                                    <text id="CANCEL" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" line-spacing="21" fill="#555555">
+                                        <tspan x="23.9868164" y="22">CANCEL</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <path d="M3,0 L397,0 L397,0 C398.656854,-3.04359188e-16 400,1.34314575 400,3 L400,60 L0,60 L0,3 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-216-Copy" fill="#FFFFFF"></path>
+                        <path d="M24,84 L376,84 L376,105 L24,105 L24,84 Z M24,114 L190.526912,114 L190.526912,135 L24,135 L24,114 Z" id="Combined-Shape" fill="#E8E8E8"></path>
+                        <text id="Title" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" line-spacing="20" fill="#333333">
+                            <tspan x="24" y="43">Title</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4" transform="translate(617.000000, 78.000000)">
+                        <path d="M1.13686838e-13,21 L90,21" id="Path-2" stroke="#FF5722"></path>
+                        <path d="M1.13686838e-13,105 L90,105" id="Path-2" stroke="#7ED321"></path>
+                        <path d="M1.13686838e-13,200 L90,200" id="Path-2" stroke="#199BFC"></path>
+                        <text id="Title-area" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="28" fill="#888888">
+                            <tspan x="96" y="41">Title area</tspan>
+                        </text>
+                        <text id="Content-area" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="28" fill="#888888">
+                            <tspan x="96" y="126">Content area</tspan>
+                        </text>
+                        <text id="Operation-area" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="28" fill="#888888">
+                            <tspan x="96" y="219">Operation area</tspan>
+                        </text>
+                        <text id="Title" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="27" fill="#333333">
+                            <tspan x="96" y="15">Title</tspan>
+                        </text>
+                        <text id="Content" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="27" fill="#333333">
+                            <tspan x="96" y="100">Content</tspan>
+                        </text>
+                        <text id="Actions" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="27" fill="#333333">
+                            <tspan x="96" y="193">Actions</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -11,6 +11,11 @@
     "Iconography"
   ],
   "Components": [
-  	"Button"
+    "Button",
+    "Datepicker",
+    "Modal",
+    "Radio",
+    "Number Input",
+    "Checkbox"
   ]
 }
