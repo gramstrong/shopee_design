@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="230px" viewBox="0 0 900 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="137" y="0" width="200" height="40" rx="2"></rect>
+        <rect id="path-2" x="160" y="0" width="200" height="40" rx="2"></rect>
+        <path d="M162,0 L262,0 L262,40 L162,40 L162,40 C160.895431,40 160,39.1045695 160,38 L160,2 L160,2 C160,0.8954305 160.895431,2.02906125e-16 162,0 Z" id="path-3"></path>
+        <rect id="path-4" x="0" y="0" width="102" height="82" rx="2"></rect>
+        <filter x="-23.5%" y="-19.5%" width="147.1%" height="158.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.09 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V1.0.0" transform="translate(-700.000000, -2463.000000)">
+            <g id="Group-3" transform="translate(700.000000, 2463.000000)">
+                <rect id="Rectangle-2" fill="#FAFAFA" x="0" y="0" width="900" height="230"></rect>
+                <g id="Group-8" transform="translate(45.000000, 74.000000)">
+                    <text id="优惠类型／额度" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.67" fill="#000000">
+                        <tspan x="0" y="25">优惠类型／额度</tspan>
+                    </text>
+                    <g id="Rectangle-7-Copy-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#E8E8E8" stroke-width="1" x="137.5" y="0.5" width="199" height="39" rx="2"></rect>
+                    </g>
+                    <text id="50" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill-opacity="0.8" fill="#000000">
+                        <tspan x="251" y="24">50</tspan>
+                    </text>
+                    <text id="%" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#BBBBBB">
+                        <tspan x="314" y="23">%</tspan>
+                    </text>
+                    <path d="M217.1293,19.3422113 C216.930703,19.1532132 216.995802,19 217.27316,19 L224.719134,19 C224.997183,19 225.068436,19.1588237 224.876542,19.3565348 L221.509905,22.825229 C221.31879,23.0221378 220.99697,23.0229402 220.804269,22.8395526 L217.1293,19.3422113 Z" id="Path-41" fill="#888888"></path>
+                    <text id="折扣" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill-opacity="0.8" fill="#000000">
+                        <tspan x="149" y="24">折扣</tspan>
+                    </text>
+                    <path d="M238,0 L238,40" id="Path-4" stroke="#E2E2E2"></path>
+                </g>
+                <g id="Group-8" transform="translate(412.000000, 74.000000)">
+                    <g id="Group-10">
+                        <text id="优惠类型／额度" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.67" fill="#000000">
+                            <tspan x="23.9857869" y="25">优惠类型／额度</tspan>
+                        </text>
+                        <g id="Rectangle-7-Copy-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#E8E8E8" stroke-width="1" x="160.5" y="0.5" width="199" height="39" rx="2"></rect>
+                        </g>
+                        <g id="Rectangle-7-Copy-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <path stroke="#DBDBDB" stroke-width="1" d="M261.5,39.5 L261.5,0.5 L162,0.5 C161.171573,0.5 160.5,1.17157288 160.5,2 L160.5,38 C160.5,38.8284271 161.171573,39.5 162,39.5 L261.5,39.5 Z"></path>
+                        </g>
+                        <text id="%" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#BBBBBB">
+                            <tspan x="337" y="25">%</tspan>
+                        </text>
+                        <text id="50" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill-opacity="0.8" fill="#000000">
+                            <tspan x="274" y="25">50</tspan>
+                        </text>
+                        <path d="M240.1293,19.3422113 C239.930703,19.1532132 239.995802,19 240.27316,19 L247.719134,19 C247.997183,19 248.068436,19.1588237 247.876542,19.3565348 L244.509905,22.825229 C244.31879,23.0221378 243.99697,23.0229402 243.804269,22.8395526 L240.1293,19.3422113 Z" id="Path-41" fill="#888888"></path>
+                        <text id="折扣" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill-opacity="0.8" fill="#000000">
+                            <tspan x="172" y="25">折扣</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-9" transform="translate(160.000000, 0.000000)">
+                        <g id="Rectangle-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <text id="折扣" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" line-spacing="21" fill="#333333">
+                            <tspan x="12" y="27">折扣</tspan>
+                        </text>
+                        <polyline id="Path-2" stroke="#55CC77" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" points="80 22.8581059 83.3495636 26.6355613 90 19.1355613"></polyline>
+                        <text id="滿減" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill-opacity="0.8" fill="#000000">
+                            <tspan x="12" y="64">滿減</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

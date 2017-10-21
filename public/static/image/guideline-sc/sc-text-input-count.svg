@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="226px" viewBox="0 0 900 226" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 34</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="40" rx="2"></rect>
+        <rect id="path-2" x="0" y="0" width="400" height="40" rx="2"></rect>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V1.0.0" transform="translate(-700.000000, -3253.000000)">
+            <g id="Group-34" transform="translate(700.000000, 3253.000000)">
+                <rect id="Rectangle-2" fill="#FAFAFA" x="0" y="0" width="900" height="226"></rect>
+                <g id="Group-32" transform="translate(200.000000, 45.000000)">
+                    <g id="Group" transform="translate(66.000000, 0.000000)">
+                        <g id="Rectangle-4">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="399" height="39" rx="2"></rect>
+                        </g>
+                        <text id="0-/-20" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="14" fill="#888888">
+                            <tspan x="368" y="58">0 / 20</tspan>
+                        </text>
+                    </g>
+                    <text id="商品名" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.67" fill="#000000">
+                        <tspan x="0" y="25">商品名</tspan>
+                    </text>
+                    <g id="Group-27" transform="translate(66.000000, 33.000000)">
+                        <rect id="overlay" fill-opacity="0.3" fill="#FF5500" x="0" y="7" width="400" height="6"></rect>
+                        <g id="HEIGHT#BE0E0BC5-25AF-4790-95E2-35119C3DE3B2" transform="translate(402.000000, 0.000000)" fill="#FF5722">
+                            <rect id="ruler-start" x="0" y="7" width="5" height="1"></rect>
+                            <rect id="ruler-end" x="0" y="12" width="5" height="1"></rect>
+                            <rect id="ruler-line" x="2" y="7" width="1" height="6"></rect>
+                            <text id="6px" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal">
+                                <tspan x="12.3349609" y="11">6px</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(66.000000, 81.000000)">
+                        <g id="Rectangle-4">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="399" height="39" rx="2"></rect>
+                        </g>
+                        <text id="小肥羊火锅底料" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill-opacity="0.8" fill="#000000">
+                            <tspan x="12" y="26">小肥羊火锅底料</tspan>
+                        </text>
+                        <text id="7-/-20" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="14" fill="#888888">
+                            <tspan x="368" y="58">7 / 20</tspan>
+                        </text>
+                    </g>
+                    <text id="商品名" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="20" fill-opacity="0.67" fill="#000000">
+                        <tspan x="0" y="106">商品名</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

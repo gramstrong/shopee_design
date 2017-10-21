@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="355px" viewBox="0 0 900 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 39</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="290" height="40" rx="2"></rect>
+        <rect id="path-2" x="0" y="0" width="290" height="40" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="290" height="40" rx="2"></rect>
+        <rect id="path-4" x="0" y="0" width="290" height="40" rx="2"></rect>
+        <rect id="path-5" x="0" y="0" width="290" height="40" rx="2"></rect>
+        <filter x="-0.3%" y="-2.5%" width="100.7%" height="105.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="290" height="40" rx="2"></rect>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V1.0.0" transform="translate(-700.000000, -542.000000)">
+            <g id="Group-39" transform="translate(700.000000, 542.000000)">
+                <g id="Group-30">
+                    <g id="Group-28">
+                        <rect id="Rectangle-2" fill="#FAFAFA" x="0" y="0" width="900" height="355"></rect>
+                        <text id="Default" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="53">Default</tspan>
+                        </text>
+                        <g id="Group-6" transform="translate(284.000000, 30.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Hint-text" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#BBBBBB">
+                                <tspan x="12" y="22">Hint text</tspan>
+                            </text>
+                        </g>
+                        <text id="Hover" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="108">Hover</tspan>
+                        </text>
+                        <g id="Group-12" transform="translate(284.000000, 85.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <rect stroke="#BBBBBB" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Basic-usage" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#BBBBBB">
+                                <tspan x="12" y="22">Basic usage</tspan>
+                            </text>
+                        </g>
+                        <text id="Focus" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="158">Focus</tspan>
+                        </text>
+                        <text id="Content-on-focus" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="208">Content on focus</tspan>
+                        </text>
+                        <text id="Content-off-focus" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="258">Content off focus</tspan>
+                        </text>
+                        <g id="Group-22" transform="translate(284.000000, 235.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Text-input-completio" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#191919">
+                                <tspan x="12" y="22">Text input completion</tspan>
+                            </text>
+                        </g>
+                        <text id="Disabled" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="21" fill="#555555">
+                            <tspan x="136" y="308">Disabled</tspan>
+                        </text>
+                        <g id="Group-26" transform="translate(284.000000, 285.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Text-input-completio" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#CCCCCC">
+                                <tspan x="12" y="22">Text input completion</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-15" transform="translate(284.000000, 135.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <rect stroke="#BBBBBB" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Basic-usage" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#BBBBBB">
+                                <tspan x="12" y="22">Basic usage</tspan>
+                            </text>
+                            <path d="M11,11 L11,29" id="Line" stroke="#212121" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-20" transform="translate(284.000000, 185.000000)">
+                            <g id="Rectangle-4">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                <rect stroke="#BBBBBB" stroke-width="1" x="0.5" y="0.5" width="289" height="39" rx="2"></rect>
+                            </g>
+                            <text id="Text-input" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="21" fill="#191919">
+                                <tspan x="12" y="22">Text input</tspan>
+                            </text>
+                            <path d="M76,11 L76,29" id="Line" stroke="#212121" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <text id="Hint-text:-G-60-(#BB" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="18" fill="#888888">
+                        <tspan x="592" y="65">Hint text: G 60 (#BBBBBB)</tspan>
+                        <tspan x="592" y="83">Text (not editable): G 50 (#CCCCCC)</tspan>
+                        <tspan x="592" y="101">Regular entry text Normal text: G 90 (# 333333)</tspan>
+                        <tspan x="592" y="119">Text box border (default): G 20 (# E8E8E8)</tspan>
+                        <tspan x="592" y="137">Text box border (focus): G 60 (#BBBBBB)</tspan>
+                        <tspan x="592" y="155">Text box background (default): # FFFFFF</tspan>
+                        <tspan x="592" y="173">Text box background (not editable): G 10 (#FAFAFA)</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
