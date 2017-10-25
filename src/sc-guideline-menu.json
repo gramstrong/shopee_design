@@ -6,9 +6,7 @@
   ],
 
   "Style Guide": [
-    "Color", 
-    "Typography", 
-    "Iconography"
+    "Color"
   ],
   "Components": [
     "Button",
