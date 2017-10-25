@@ -36,8 +36,8 @@
     "webpack-dev-server": "^1.14.1"
   },
   "scripts": {
-    "start": "npm version patch -m 'build' && node scripts/customized-config start",
-    "build": "node scripts/customized-config build",
+    "start": "node scripts/customized-config start",
+    "build": "npm version patch -m 'build' && node scripts/customized-config build",
     "test": "node scripts/customized-config test --env=jsdom",
     "eject": "react-scripts eject"
   }
